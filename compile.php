@@ -1,8 +1,8 @@
 <?php
 
-$dataFiles = scandir('data/');
-$logoFiles = scandir('logo/');
-$flagFiles = scandir('country-flag/');
+$dataFiles = scandir(__DIR__ . '/data/');
+$logoFiles = scandir(__DIR__ . '/logo/');
+$flagFiles = scandir(__DIR__ . '/country-flag/');
 
 $output = array(
 	'data' => array(),
