@@ -7,12 +7,16 @@ The data is publicly accessible at http://api.piratetimes.net
 
 ## How update the information
 
-To update the information submit a pull request to this repository. One of the moderators will confirm the request and merge the data.
+Anyone can submit a request to change/update the data. This can be done in two ways:
 
+1. *Pull request.* 
+This is the fastes way. If you are familiar with git & github submit a pull request to this repository. One of the moderators will confirm the data validity of the request and merge the data. 
+2. *Email.*
+Slower, but you may email one of the moderators and request a data change. Please include the exact data and reasons for the change.
 
 ## Structure
 
-# Party meta data
+### Party meta data
 
 Data about each party is located in the data/ directory. Each party has it's own file. 
 
@@ -28,10 +32,12 @@ SubParties
 
 `PP<nationalISOCode>-<subpartyCode>`
 
-# Party logo
+Note: The data format is mostly self explanitory, but documentation will be provided in time.
 
-Each logo should only the circular logo, with transparent background.
+### Party logo
 
-# Country flag
+Each logo should only be the circular logo, with transparent background.
+
+### Country flag
 
 See readme in the country-flag/ folder
