@@ -12,7 +12,7 @@ $output = array(
 
 foreach ($dataFiles as $filename) {
 	if (preg_match('/.+\.json$/i', $filename) === 1) {
-		$ppdata = file_get_contents('data/' . $filename);
+		$ppdata = file_get_contents(sprintf('%s/data/%s', __DIR__, $filename));
 		$ppdata = json_decode($ppdata);
 
 		$output['data'][$ppdata->partyCode] = $ppdata;
@@ -21,12 +21,12 @@ foreach ($dataFiles as $filename) {
 
 foreach ($logoFiles as $filename) {
 	if (preg_match('/(.+)\.(png|jpg)$/i', $filename, $matches) === 1) {
-		$output['logo'][strtoupper($matches[1])] = 'logo/'.$filename;
+		$output['logo'][strtoupper($matches[1])] = sprintf('%s/logo/%s', __DIR__, $filename);
 	}
 }
 foreach ($flagFiles as $filename) {
 	if (preg_match('/(.+)\.(png|jpg)$/i', $filename, $matches) === 1) {
-		$output['flag'][strtoupper($matches[1])] = 'country-flag/'.$filename;
+		$output['flag'][strtoupper($matches[1])] = sprintf('%s/country-flag/%s', __DIR__, $filename);
 	}
 }
 
