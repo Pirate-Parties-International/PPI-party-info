@@ -1,0 +1,36 @@
+{
+    "countryCode": "ee",
+    "country": "Estonia",
+    "partyName": {
+        "en": "Pirate Party Estonia",
+        "ee": "Eesti Piraadipartei"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/piraadipartei.ee\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "Piraadipartei",
+            "id": "116456088552"
+        },
+        "twitter": {
+            "username": "piraadipartei",
+            "hashtag": null
+        },
+        "googlePlus": null,
+        "youtube": null,
+        "irc": {
+            "ircChannel": "#piraadipartei",
+            "ircServer": "irc.pirateirc.net"
+        }
+    },
+    "membership": {
+        "ppi": false
+    },
+    "contact": {
+        "general": null
+    },
+    "partyCode": "PPEE"
+}

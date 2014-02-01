@@ -1,0 +1,38 @@
+{
+    "countryCode": "dk",
+    "country": "Denmark",
+    "partyName": {
+        "en": "Pirate Party Denmark",
+        "dk": "Piratpartiet"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/www.piratpartiet.dk\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "piratpartietdk",
+            "id": "184800295647"
+        },
+        "twitter": {
+            "username": "PiratpartietDK",
+            "hashtag": null
+        },
+        "googlePlus": "110104014765371755397",
+        "youtube": null,
+        "irc": {
+            "ircChannel": "#piratpartiet.dk",
+            "ircServer": "irc.pirateirc.net"
+        }
+    },
+    "membership": {
+        "ppi": false
+    },
+    "contact": {
+        "general": {
+            "email": "kontakt@piratpartiet.dk"
+        }
+    },
+    "partyCode": "PPDK"
+}

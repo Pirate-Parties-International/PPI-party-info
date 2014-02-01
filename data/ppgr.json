@@ -1,0 +1,38 @@
+{
+    "countryCode": "gr",
+    "country": "Greece",
+    "partyName": {
+        "en": "Pirate Party Greece",
+        "gr": "\u039a\u03cc\u03bc\u03bc\u03b1 \u03a0\u03b5\u03b9\u03c1\u03b1\u03c4\u03ce\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/pirateparty.gr\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "PiratePartyGR",
+            "id": "116345831805649"
+        },
+        "twitter": {
+            "username": "PiratepartyGR",
+            "hashtag": "#piratepartyGR"
+        },
+        "googlePlus": "102710542503312805049",
+        "youtube": "PiratePartyGreece",
+        "irc": {
+            "ircChannel": "#ppgr",
+            "ircServer": "irc.pirateirc.net"
+        }
+    },
+    "membership": {
+        "ppi": true
+    },
+    "contact": {
+        "general": {
+            "email": "info@pirateparty.gr"
+        }
+    },
+    "partyCode": "PPGR"
+}

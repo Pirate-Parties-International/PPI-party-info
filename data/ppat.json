@@ -1,0 +1,38 @@
+{
+    "countryCode": "at",
+    "country": "Austria",
+    "partyName": {
+        "en": "Pirate Party Austria",
+        "at": "Piratenpartei \u00d6sterreich"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/www.piratenpartei.at\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "piratenparteiat",
+            "id": "132554303014"
+        },
+        "twitter": {
+            "username": "piratenparteiat",
+            "hashtag": "#ppoe"
+        },
+        "googlePlus": "114600928784220965597",
+        "youtube": "piratenparteiat",
+        "irc": {
+            "ircChannel": "#piratenpartei.at",
+            "ircServer": "irc.freenode.net"
+        }
+    },
+    "membership": {
+        "ppi": true
+    },
+    "contact": {
+        "general": {
+            "email": "bgf@piratenpartei.at"
+        }
+    },
+    "partyCode": "PPAT"
+}

@@ -1,0 +1,38 @@
+{
+    "countryCode": "mx",
+    "country": "Mexico",
+    "partyName": {
+        "en": "Pirate Party Mexico",
+        "mx": "Partido Pirata Mexicano"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/partidopirata.mx"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "PPirataMx",
+            "id": "105863140875"
+        },
+        "twitter": {
+            "username": "ppiratamx",
+            "hashtag": "#ppiratamx"
+        },
+        "googlePlus": null,
+        "youtube": null,
+        "irc": {
+            "ircChannel": null,
+            "ircServer": null
+        }
+    },
+    "membership": {
+        "ppi": false
+    },
+    "contact": {
+        "general": {
+            "email": "viva@partidopirata.mx"
+        }
+    },
+    "partyCode": "PPMX"
+}

@@ -1,0 +1,38 @@
+{
+    "countryCode": "ve",
+    "country": "Venezuela",
+    "partyName": {
+        "en": "Pirate Party Venezuela",
+        "ve": "Partido Pirata de Venezuela"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/ppirata.org\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "PPVenezuela",
+            "id": "319584634751030"
+        },
+        "twitter": {
+            "username": "PP_Ve",
+            "hashtag": "#ppve"
+        },
+        "googlePlus": "114129608964604546067",
+        "youtube": null,
+        "irc": {
+            "ircChannel": null,
+            "ircServer": null
+        }
+    },
+    "membership": {
+        "ppi": false
+    },
+    "contact": {
+        "general": {
+            "email": "contacto@ppirata.org"
+        }
+    },
+    "partyCode": "PPVE"
+}

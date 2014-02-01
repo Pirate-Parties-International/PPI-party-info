@@ -1,0 +1,38 @@
+{
+    "countryCode": "cz",
+    "country": "Czech Republic",
+    "partyName": {
+        "en": "Pirate Party Czech Republic",
+        "cz": "\u010cesk\u00e1 pir\u00e1tsk\u00e1 strana"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/www.pirati.cz"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "ceska.piratska.strana",
+            "id": "109323929038"
+        },
+        "twitter": {
+            "username": "piratepartycz",
+            "hashtag": "#voltepiraty"
+        },
+        "googlePlus": "110067291132654563670",
+        "youtube": "CeskaPiratskaStrana",
+        "irc": {
+            "ircChannel": null,
+            "ircServer": null
+        }
+    },
+    "membership": {
+        "ppi": true
+    },
+    "contact": {
+        "general": {
+            "email": "info@pirati.cz"
+        }
+    },
+    "partyCode": "PPCZ"
+}

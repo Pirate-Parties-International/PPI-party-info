@@ -1,0 +1,38 @@
+{
+    "countryCode": "pl",
+    "country": "Poland",
+    "partyName": {
+        "en": "Pirate Party Poland",
+        "pl": "Partia Pirat\u00f3w"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/polskapartiapiratow.pl\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "PolskaPartiaPiratow",
+            "id": "225917204161515"
+        },
+        "twitter": {
+            "username": "PartiaPiratow",
+            "hashtag": null
+        },
+        "googlePlus": null,
+        "youtube": "PirackaTV",
+        "irc": {
+            "ircChannel": "#partiapiratow",
+            "ircServer": "irc.pirateirc.net"
+        }
+    },
+    "membership": {
+        "ppi": false
+    },
+    "contact": {
+        "general": {
+            "email": "biuro@partiapiratow.org.pl"
+        }
+    },
+    "partyCode": "PPPL"
+}

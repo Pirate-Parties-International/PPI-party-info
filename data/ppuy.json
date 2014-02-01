@@ -1,0 +1,38 @@
+{
+    "countryCode": "uy",
+    "country": "Uruguay",
+    "partyName": {
+        "en": "Pirate Party Uruguay",
+        "uy": "Partido Pirata en Uruguay"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/partidopirata.org.uy\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "PartidoPirataUruguay",
+            "id": "118404654903506"
+        },
+        "twitter": {
+            "username": "PirataUY",
+            "hashtag": null
+        },
+        "googlePlus": "118014205139800457049",
+        "youtube": null,
+        "irc": {
+            "ircChannel": null,
+            "ircServer": null
+        }
+    },
+    "membership": {
+        "ppi": false
+    },
+    "contact": {
+        "general": {
+            "email": "info@partidopirata.org.uy"
+        }
+    },
+    "partyCode": "PPUY"
+}

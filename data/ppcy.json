@@ -1,0 +1,38 @@
+{
+    "countryCode": "cy",
+    "country": "Cyprus",
+    "partyName": {
+        "en": "Pirate Party Cyprus",
+        "cy": null
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/www.piratepartycyprus.com\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "PiratePartyCyprus",
+            "id": null
+        },
+        "twitter": {
+            "username": "PiratePartyCY",
+            "hashtag": null
+        },
+        "googlePlus": null,
+        "youtube": null,
+        "irc": {
+            "ircChannel": null,
+            "ircServer": null
+        }
+    },
+    "membership": {
+        "ppi": false
+    },
+    "contact": {
+        "general": {
+            "url": "http:\/\/www.piratepartycyprus.com\/index.php?go=contact-us"
+        }
+    },
+    "partyCode": "PPCY"
+}

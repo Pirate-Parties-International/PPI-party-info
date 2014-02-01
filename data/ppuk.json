@@ -1,0 +1,38 @@
+{
+    "countryCode": "uk",
+    "country": "United Kingdom",
+    "partyName": {
+        "en": "Pirate Party United Kingdom",
+        "uk": "Pirate Party UK"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/www.pirateparty.org.uk"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "piratepartyuk",
+            "id": "80677579210"
+        },
+        "twitter": {
+            "username": "PiratePartyUK",
+            "hashtag": "#ppuk"
+        },
+        "googlePlus": "117513035370541101978",
+        "youtube": "ThePirateParty",
+        "irc": {
+            "ircChannel": "#ppuk",
+            "ircServer": "irc.pirateirc.net"
+        }
+    },
+    "membership": {
+        "ppi": true
+    },
+    "contact": {
+        "general": {
+            "email": "campaigns@pirateparty.org.uk"
+        }
+    },
+    "partyCode": "PPUK"
+}

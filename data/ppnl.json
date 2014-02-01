@@ -1,0 +1,38 @@
+{
+    "countryCode": "nl",
+    "country": "Netherlands",
+    "partyName": {
+        "en": "Pirate Party Netherlands",
+        "nl": "Piratenpartij Nederland"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/www.piratenpartij.nl"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "Piratenpartij",
+            "id": "10150111330480434"
+        },
+        "twitter": {
+            "username": "Piratenpartij",
+            "hashtag": "#piratenpartij"
+        },
+        "googlePlus": null,
+        "youtube": "depiratenpartij",
+        "irc": {
+            "ircChannel": "#piratenpartij",
+            "ircServer": "irc.pirateirc.net"
+        }
+    },
+    "membership": {
+        "ppi": true
+    },
+    "contact": {
+        "general": {
+            "email": "bestuur@piratenpartij.nl"
+        }
+    },
+    "partyCode": "PPNL"
+}

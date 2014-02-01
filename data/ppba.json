@@ -1,0 +1,36 @@
+{
+    "countryCode": "ba",
+    "country": "Bosnia & Herzegovina",
+    "partyName": {
+        "en": "Pirate Party Bosnia and Herzegovina",
+        "ba": "Piratska Partija Bosne i Hercegovine"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": null
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "PiratskaPartija.ba",
+            "id": "341947585847984"
+        },
+        "twitter": {
+            "username": "PP_ba",
+            "hashtag": null
+        },
+        "googlePlus": null,
+        "youtube": "piratskapartijaBA",
+        "irc": {
+            "ircChannel": null,
+            "ircServer": null
+        }
+    },
+    "membership": {
+        "ppi": false
+    },
+    "contact": {
+        "general": null
+    },
+    "partyCode": "PPBA"
+}

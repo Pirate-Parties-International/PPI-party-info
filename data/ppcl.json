@@ -1,0 +1,38 @@
+{
+    "countryCode": "cl",
+    "country": "Chile",
+    "partyName": {
+        "en": "Pirate Party Chile",
+        "cl": "Partido Pirata de Chile"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/www.partidopirata.cl\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "PartidoPirataChile",
+            "id": "508611719148973"
+        },
+        "twitter": {
+            "username": "PP_CL",
+            "hashtag": null
+        },
+        "googlePlus": null,
+        "youtube": null,
+        "irc": {
+            "ircChannel": null,
+            "ircServer": null
+        }
+    },
+    "membership": {
+        "ppi": false
+    },
+    "contact": {
+        "general": {
+            "email": "somos@partidopirata.cl"
+        }
+    },
+    "partyCode": "PPCL"
+}

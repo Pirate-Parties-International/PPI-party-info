@@ -1,0 +1,38 @@
+{
+    "countryCode": "es",
+    "country": "Spain",
+    "partyName": {
+        "en": "Pirate Party Spain",
+        "es": "Partido Pirata"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/www.partidopirata.es\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "partido.pirata",
+            "id": "120062791066"
+        },
+        "twitter": {
+            "username": "partido_pirata",
+            "hashtag": "#canalpirata"
+        },
+        "googlePlus": "109128708004334911840",
+        "youtube": null,
+        "irc": {
+            "ircChannel": "#partidopirata",
+            "ircServer": "irc.freenode.net"
+        }
+    },
+    "membership": {
+        "ppi": true
+    },
+    "contact": {
+        "general": {
+            "email": "contacto@partidopirata.es"
+        }
+    },
+    "partyCode": "PPES"
+}

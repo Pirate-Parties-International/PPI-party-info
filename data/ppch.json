@@ -1,0 +1,38 @@
+{
+    "countryCode": "ch",
+    "country": "Switzerland",
+    "partyName": {
+        "en": "Pirate Party Swizerland",
+        "ch": "Parti Pirate Suisse && Piratenpartei Schweiz && Partito Pirata Svizzera"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/www.pirateparty.ch\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "PiratePartySwitzerland",
+            "id": "113814477835"
+        },
+        "twitter": {
+            "username": "ppsde",
+            "hashtag": null
+        },
+        "googlePlus": "108335073800809537592",
+        "youtube": "PiratenParteiSchweiz",
+        "irc": {
+            "ircChannel": "#pps",
+            "ircServer": "irc.pirateirc.net"
+        }
+    },
+    "membership": {
+        "ppi": true
+    },
+    "contact": {
+        "general": {
+            "email": "info@piratenpartei.ch"
+        }
+    },
+    "partyCode": "PPCH"
+}

@@ -1,0 +1,38 @@
+{
+    "countryCode": "hu",
+    "country": "Hungary",
+    "partyName": {
+        "en": "Pirate Party Hungary",
+        "hu": "Kalozpart"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/kalozpart.org\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "kalozpart",
+            "id": "256264037748618"
+        },
+        "twitter": {
+            "username": "kalozpart_org",
+            "hashtag": null
+        },
+        "googlePlus": null,
+        "youtube": "kalozpart",
+        "irc": {
+            "ircChannel": null,
+            "ircServer": null
+        }
+    },
+    "membership": {
+        "ppi": false
+    },
+    "contact": {
+        "general": {
+            "email": "staff@kalozpart.org"
+        }
+    },
+    "partyCode": "PPHU"
+}

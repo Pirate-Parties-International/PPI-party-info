@@ -1,0 +1,38 @@
+{
+    "countryCode": "ro",
+    "country": "Romania",
+    "partyName": {
+        "en": "Pirate Party Romania",
+        "ro": "Partidul Pirat Rom\u00e2nia"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/partidulpirat.ro\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "partidulpirat",
+            "id": "156229571064990"
+        },
+        "twitter": {
+            "username": "ropirates",
+            "hashtag": "#partidulpirat"
+        },
+        "googlePlus": null,
+        "youtube": "PartidulPiratRomania",
+        "irc": {
+            "ircChannel": "#partidulpirat",
+            "ircServer": "irc.pirateirc.net"
+        }
+    },
+    "membership": {
+        "ppi": true
+    },
+    "contact": {
+        "general": {
+            "email": "piratpartyro@gmail.com"
+        }
+    },
+    "partyCode": "PPRO"
+}

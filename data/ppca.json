@@ -1,0 +1,38 @@
+{
+    "countryCode": "ca",
+    "country": "Canada",
+    "partyName": {
+        "en": "Pirate Party of Canada",
+        "ca": "Pirate Party of Canada && Parti Pirate du Canada"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/pirateparty.ca\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "piratepartyca",
+            "id": "130845971437"
+        },
+        "twitter": {
+            "username": "piratepartyca",
+            "hashtag": "#votepirate"
+        },
+        "googlePlus": "107111571330002002335",
+        "youtube": "PiratePartyCanada",
+        "irc": {
+            "ircChannel": "#Canada",
+            "ircServer": "irc.pirateparty.ca"
+        }
+    },
+    "membership": {
+        "ppi": true
+    },
+    "contact": {
+        "general": {
+            "email": "info@pirateparty.ca"
+        }
+    },
+    "partyCode": "PPCA"
+}

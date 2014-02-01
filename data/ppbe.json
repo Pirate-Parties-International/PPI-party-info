@@ -1,0 +1,38 @@
+{
+    "countryCode": "be",
+    "country": "Belgium",
+    "partyName": {
+        "en": "Pirate Party Belgium",
+        "be": "Parti Pirate && Piraten Partij && Piraten Partei"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/pirateparty.be\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "pirateparty.be",
+            "id": "231023945795"
+        },
+        "twitter": {
+            "username": "piratesbelgium",
+            "hashtag": "#PPbe"
+        },
+        "googlePlus": "116807964886706853506",
+        "youtube": null,
+        "irc": {
+            "ircChannel": "#ppbe",
+            "ircServer": "irc.pirateirc.net"
+        }
+    },
+    "membership": {
+        "ppi": true
+    },
+    "contact": {
+        "general": {
+            "url": "http:\/\/pirateparty.be\/contact-us"
+        }
+    },
+    "partyCode": "PPBE"
+}

@@ -1,0 +1,38 @@
+{
+    "countryCode": "pt",
+    "country": "Portugal",
+    "partyName": {
+        "en": "Pirate Party Portugal",
+        "pt": "Partido Pirata Portugu\u00eas"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/www.partidopiratapt.eu\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "PartidoPirataPortugues",
+            "id": "168958605902"
+        },
+        "twitter": {
+            "username": "PartidoPirataPT",
+            "hashtag": null
+        },
+        "googlePlus": "103298876745114992628",
+        "youtube": "PartidoPirataPT",
+        "irc": {
+            "ircChannel": "#ppp-pthttp:\/\/www.ptnet.org\/",
+            "ircServer": "http:\/\/www.ptnet.org\/"
+        }
+    },
+    "membership": {
+        "ppi": true
+    },
+    "contact": {
+        "general": {
+            "email": "geral@partidopiratapt.eu"
+        }
+    },
+    "partyCode": "PPPT"
+}

@@ -1,0 +1,36 @@
+{
+    "countryCode": "me",
+    "country": "Montenegro",
+    "partyName": {
+        "en": "Pirate Party Montenegro",
+        "me": "Piratska Partija Crne Gore"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": null
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "Piratska.Partija.Crne.Gore",
+            "id": "148407791926877"
+        },
+        "twitter": {
+            "username": "CGPiratska",
+            "hashtag": null
+        },
+        "googlePlus": null,
+        "youtube": null,
+        "irc": {
+            "ircChannel": null,
+            "ircServer": null
+        }
+    },
+    "membership": {
+        "ppi": false
+    },
+    "contact": {
+        "general": null
+    },
+    "partyCode": "PPME"
+}

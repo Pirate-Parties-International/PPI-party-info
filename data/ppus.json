@@ -1,0 +1,36 @@
+{
+    "countryCode": "us",
+    "country": "United States",
+    "partyName": {
+        "en": "United States Pirate Party",
+        "us": "United States Pirate Party"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/pirate-party.us\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "USPirateParty",
+            "id": "113800108672198"
+        },
+        "twitter": {
+            "username": "USPirates",
+            "hashtag": null
+        },
+        "googlePlus": "105029693208503729809",
+        "youtube": "TheUSPirateParty",
+        "irc": {
+            "ircChannel": "#uspp",
+            "ircServer": "irc.pirateirc.net"
+        }
+    },
+    "membership": {
+        "ppi": false
+    },
+    "contact": {
+        "general": null
+    },
+    "partyCode": "PPUS"
+}

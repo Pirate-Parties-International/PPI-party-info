@@ -1,0 +1,38 @@
+{
+    "countryCode": "is",
+    "country": "Iceland",
+    "partyName": {
+        "en": "Pirate Party Iceland",
+        "is": "P\u00edratapart\u00fdi\u00f0"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/www.pirateparty.is\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "Piratar.Island",
+            "id": "173490016118090"
+        },
+        "twitter": {
+            "username": "PiratePartyIS",
+            "hashtag": null
+        },
+        "googlePlus": null,
+        "youtube": "PiratePartyIceland",
+        "irc": {
+            "ircChannel": "#ispp",
+            "ircServer": "irc.pirateirc.net"
+        }
+    },
+    "membership": {
+        "ppi": false
+    },
+    "contact": {
+        "general": {
+            "email": "piratar@pirateparty.is"
+        }
+    },
+    "partyCode": "PPIS"
+}

@@ -1,0 +1,36 @@
+{
+    "countryCode": "in",
+    "country": "India",
+    "partyName": {
+        "en": "Pirate Party India",
+        "in": "Pirate Party India"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/www.pirateparty.org.in\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "PiratePartyIndia",
+            "id": "367232660009292"
+        },
+        "twitter": {
+            "username": "PiratePIN",
+            "hashtag": null
+        },
+        "googlePlus": null,
+        "youtube": null,
+        "irc": {
+            "ircChannel": "#piratepin",
+            "ircServer": "irc.pirateirc.net"
+        }
+    },
+    "membership": {
+        "ppi": false
+    },
+    "contact": {
+        "general": null
+    },
+    "partyCode": "PPIN"
+}

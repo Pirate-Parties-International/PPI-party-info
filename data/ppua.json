@@ -1,0 +1,38 @@
+{
+    "countryCode": "ua",
+    "country": "Ukraine",
+    "partyName": {
+        "en": "Pirate Party Ukraine",
+        "ua": "\u041f\u0456\u0440\u0430\u0442\u0441\u044c\u043a\u0430 \u041f\u0430\u0440\u0442\u0456\u044f \u0423\u043a\u0440\u0430\u0457\u043d\u0438"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/pp-ua.org\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "piratepartyua",
+            "id": "192924800754491"
+        },
+        "twitter": {
+            "username": "pirates_ua",
+            "hashtag": "#ppua"
+        },
+        "googlePlus": "117815996898277752233",
+        "youtube": "PiratePartyUA",
+        "irc": {
+            "ircChannel": "#piratesua",
+            "ircServer": "irc.freenode.net"
+        }
+    },
+    "membership": {
+        "ppi": false
+    },
+    "contact": {
+        "general": {
+            "email": "pirates@pp-ua.org"
+        }
+    },
+    "partyCode": "PPUA"
+}

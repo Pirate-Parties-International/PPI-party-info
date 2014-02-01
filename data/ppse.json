@@ -1,0 +1,38 @@
+{
+    "countryCode": "se",
+    "country": "Sweden",
+    "partyName": {
+        "en": "Pirate Party Sweden",
+        "se": "Piratpartiet"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/piratpartiet.se\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "piratpartiet",
+            "id": "7336236196"
+        },
+        "twitter": {
+            "username": "piratpartiet",
+            "hashtag": "#piratpartiet"
+        },
+        "googlePlus": "102145081044653505672",
+        "youtube": "piratpartiet",
+        "irc": {
+            "ircChannel": "#piratpartiet",
+            "ircServer": "irc.pirateirc.net"
+        }
+    },
+    "membership": {
+        "ppi": false
+    },
+    "contact": {
+        "general": {
+            "email": "info@piratpartiet.se"
+        }
+    },
+    "partyCode": "PPSE"
+}

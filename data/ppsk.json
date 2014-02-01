@@ -1,0 +1,38 @@
+{
+    "countryCode": "sk",
+    "country": "Slovakia",
+    "partyName": {
+        "en": "Pirate Party Slovakia",
+        "sk": "Slovensk\u00e1 pir\u00e1tska strana"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/piratskastrana.sk\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "piratskastrana",
+            "id": "108362753572"
+        },
+        "twitter": {
+            "username": "PiratePartySK",
+            "hashtag": null
+        },
+        "googlePlus": "115252556676192450221",
+        "youtube": "piratskastrana",
+        "irc": {
+            "ircChannel": "#piratskastranka",
+            "ircServer": "irc.pirateirc.net"
+        }
+    },
+    "membership": {
+        "ppi": false
+    },
+    "contact": {
+        "general": {
+            "email": "info@piratskastrana.sk"
+        }
+    },
+    "partyCode": "PPSK"
+}

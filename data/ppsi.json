@@ -1,0 +1,38 @@
+{
+    "countryCode": "si",
+    "country": "Slovenia",
+    "partyName": {
+        "en": "Pirate Party Slovenia",
+        "si": "Piratska stranka Slovenije"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/www.piratskastranka.si\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "Piratska.Stranka.Slovenije",
+            "id": "98358327274"
+        },
+        "twitter": {
+            "username": "piratskastranka",
+            "hashtag": null
+        },
+        "googlePlus": "115846887465357040331",
+        "youtube": "PiratskaStranka",
+        "irc": {
+            "ircChannel": "#piratskastranka",
+            "ircServer": "irc.freenode.net"
+        }
+    },
+    "membership": {
+        "ppi": true
+    },
+    "contact": {
+        "general": {
+            "email": "info@piratskastranka.net"
+        }
+    },
+    "partyCode": "PPSI"
+}

@@ -1,0 +1,38 @@
+{
+    "countryCode": "lv",
+    "country": "Latvia",
+    "partyName": {
+        "en": "Pirate Party Latvia",
+        "lv": "Piratu Partija"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/piratupartija.lv\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "PiratuPartija.LV",
+            "id": null
+        },
+        "twitter": {
+            "username": "PiratuPartija",
+            "hashtag": null
+        },
+        "googlePlus": null,
+        "youtube": null,
+        "irc": {
+            "ircChannel": "#pplv",
+            "ircServer": "irc.pirateirc.net"
+        }
+    },
+    "membership": {
+        "ppi": false
+    },
+    "contact": {
+        "general": {
+            "email": "info@piratupartija.lv"
+        }
+    },
+    "partyCode": "PPLV"
+}

@@ -1,0 +1,36 @@
+{
+    "countryCode": "lt",
+    "country": "Lithuania",
+    "partyName": {
+        "en": "Pirate Party Lithuania",
+        "lt": "Lietuvos Pirat\u0173 Partija"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/piratupartija.lt\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "PiratuPartija",
+            "id": "238566536218639"
+        },
+        "twitter": {
+            "username": null,
+            "hashtag": null
+        },
+        "googlePlus": "113306357989921867158",
+        "youtube": "piratupartija",
+        "irc": {
+            "ircChannel": null,
+            "ircServer": null
+        }
+    },
+    "membership": {
+        "ppi": false
+    },
+    "contact": {
+        "general": null
+    },
+    "partyCode": "PPLT"
+}

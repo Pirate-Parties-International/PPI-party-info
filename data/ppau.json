@@ -1,0 +1,38 @@
+{
+    "countryCode": "au",
+    "country": "Australia",
+    "partyName": {
+        "en": "Pirate Party Australia",
+        "au": "Pirate Party Australia"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/www.pirateparty.org.au\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "piratepartyau",
+            "id": "19705728037"
+        },
+        "twitter": {
+            "username": "piratepartyau",
+            "hashtag": "#votepirate && #pirateparty && #ppau"
+        },
+        "googlePlus": "114061517635295816057",
+        "youtube": "PiratePartyAu",
+        "irc": {
+            "ircChannel": "#ppau",
+            "ircServer": "irc.pirateirc.net"
+        }
+    },
+    "membership": {
+        "ppi": true
+    },
+    "contact": {
+        "general": {
+            "email": "enquiries@pirateparty.org.au"
+        }
+    },
+    "partyCode": "PPAU"
+}

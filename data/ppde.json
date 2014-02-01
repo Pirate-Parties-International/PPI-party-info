@@ -1,0 +1,38 @@
+{
+    "countryCode": "de",
+    "country": "Germany",
+    "partyName": {
+        "en": "Pirate Party Germany",
+        "de": "Piratenpartei Deutschland"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/www.piratenpartei.de"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "PiratenparteiDeutschland",
+            "id": "149871337782"
+        },
+        "twitter": {
+            "username": "piratenpartei",
+            "hashtag": "#piraten"
+        },
+        "googlePlus": "107862983960150496076",
+        "youtube": "piratenpartei",
+        "irc": {
+            "ircChannel": "#piratenpartei",
+            "ircServer": "irc.freenode.org"
+        }
+    },
+    "membership": {
+        "ppi": true
+    },
+    "contact": {
+        "general": {
+            "email": "fragen@piratenpartei.de"
+        }
+    },
+    "partyCode": "PPDE"
+}

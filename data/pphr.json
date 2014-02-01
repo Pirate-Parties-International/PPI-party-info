@@ -1,0 +1,38 @@
+{
+    "countryCode": "hr",
+    "country": "Croatia",
+    "partyName": {
+        "en": "Pirate Party Croatia",
+        "hr": "Piratska Stranka Hrvatske"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/www.pirati.hr\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "pirati.hr",
+            "id": "152933438129535"
+        },
+        "twitter": {
+            "username": "PiratskaHRV",
+            "hashtag": "#PiratskaHRV"
+        },
+        "googlePlus": "108030670557918439195",
+        "youtube": "piratiHR",
+        "irc": {
+            "ircChannel": null,
+            "ircServer": null
+        }
+    },
+    "membership": {
+        "ppi": true
+    },
+    "contact": {
+        "general": {
+            "email": "info@pirati.hr"
+        }
+    },
+    "partyCode": "PPHR"
+}

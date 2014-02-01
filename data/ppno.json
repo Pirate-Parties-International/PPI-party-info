@@ -1,0 +1,38 @@
+{
+    "countryCode": "no",
+    "country": "Norway",
+    "partyName": {
+        "en": "Pirate Party Norway",
+        "no": "Piratpartiet Norge"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/piratpartiet.no\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "pirnorge",
+            "id": "445377535506056"
+        },
+        "twitter": {
+            "username": "PiratPost",
+            "hashtag": "#piratpartiet"
+        },
+        "googlePlus": "104013535028688465351",
+        "youtube": "pirnorge",
+        "irc": {
+            "ircChannel": "#piratpartiet.no",
+            "ircServer": "irc.pirateirc.net"
+        }
+    },
+    "membership": {
+        "ppi": false
+    },
+    "contact": {
+        "general": {
+            "url": "http:\/\/piratpartiet.no\/kontakt\/"
+        }
+    },
+    "partyCode": "PPNO"
+}

@@ -1,0 +1,38 @@
+{
+    "countryCode": "lu",
+    "country": "Luxembourg",
+    "partyName": {
+        "en": "Pirate Party Luxembourg",
+        "lu": "Piratepartei L\u00ebtzebuerg"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/piratepartei.lu\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "Piratepartei",
+            "id": "183148710560"
+        },
+        "twitter": {
+            "username": "Piratepartei",
+            "hashtag": null
+        },
+        "googlePlus": "102201720880310261301",
+        "youtube": "Piratepartei",
+        "irc": {
+            "ircChannel": "#piratenlu",
+            "ircServer": "irc.pirateirc.net"
+        }
+    },
+    "membership": {
+        "ppi": true
+    },
+    "contact": {
+        "general": {
+            "email": "ahoi@piratepartei.lu"
+        }
+    },
+    "partyCode": "PPLU"
+}

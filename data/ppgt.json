@@ -1,0 +1,36 @@
+{
+    "countryCode": "gt",
+    "country": "Guatemala",
+    "partyName": {
+        "en": "Pirate Party Guatemala",
+        "gt": "Partido Pirata Guatemala"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/partidopirata.org.gt\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "piratagt",
+            "id": "186359898066929"
+        },
+        "twitter": {
+            "username": "piratagt",
+            "hashtag": "#piratagt"
+        },
+        "googlePlus": null,
+        "youtube": null,
+        "irc": {
+            "ircChannel": null,
+            "ircServer": null
+        }
+    },
+    "membership": {
+        "ppi": false
+    },
+    "contact": {
+        "general": null
+    },
+    "partyCode": "PPGT"
+}

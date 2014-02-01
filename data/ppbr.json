@@ -1,0 +1,38 @@
+{
+    "countryCode": "br",
+    "country": "Brazil",
+    "partyName": {
+        "en": "Pirate Party Brazil",
+        "br": "Partido Pirata do Brasil"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/partidopirata.org"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "PartidoPirata.BR",
+            "id": "180044272023090"
+        },
+        "twitter": {
+            "username": "PartidoPirataBR",
+            "hashtag": "#PPBr"
+        },
+        "googlePlus": null,
+        "youtube": null,
+        "irc": {
+            "ircChannel": null,
+            "ircServer": null
+        }
+    },
+    "membership": {
+        "ppi": true
+    },
+    "contact": {
+        "general": {
+            "email": "contato@partidopirata.org"
+        }
+    },
+    "partyCode": "PPBR"
+}

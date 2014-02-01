@@ -1,0 +1,38 @@
+{
+    "countryCode": "nz",
+    "country": "New Zealand",
+    "partyName": {
+        "en": "Pirate Party New Zealand",
+        "nz": "Pirate Party New Zealand"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/pirateparty.org.nz\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "piratepartyNZ",
+            "id": "305641940721"
+        },
+        "twitter": {
+            "username": "piratepartyNZ\/",
+            "hashtag": "#ppnz"
+        },
+        "googlePlus": "112730422942838390375",
+        "youtube": null,
+        "irc": {
+            "ircChannel": "#ppnz",
+            "ircServer": "irc.pirateirc.net"
+        }
+    },
+    "membership": {
+        "ppi": true
+    },
+    "contact": {
+        "general": {
+            "email": "enquiries@pirateparty.org.nz"
+        }
+    },
+    "partyCode": "PPNZ"
+}

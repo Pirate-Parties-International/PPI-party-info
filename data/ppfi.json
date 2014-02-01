@@ -1,0 +1,38 @@
+{
+    "countryCode": "fi",
+    "country": "Finland",
+    "partyName": {
+        "en": "Pirate Party Finland",
+        "fi": "Piraattipuolue"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/www.piraattipuolue.fi\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "Piraattipuolue",
+            "id": "18919657783"
+        },
+        "twitter": {
+            "username": "Piraattipuolue",
+            "hashtag": "#piraatit"
+        },
+        "googlePlus": "107764683897680406937",
+        "youtube": "piraattipuolue",
+        "irc": {
+            "ircChannel": "#piraattipuolue",
+            "ircServer": "irc.piraattipuolue.fi"
+        }
+    },
+    "membership": {
+        "ppi": true
+    },
+    "contact": {
+        "general": {
+            "email": "contact@piraattipuolue.fi"
+        }
+    },
+    "partyCode": "PPFI"
+}

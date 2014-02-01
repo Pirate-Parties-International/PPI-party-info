@@ -1,0 +1,38 @@
+{
+    "countryCode": "co",
+    "country": "Colombia",
+    "partyName": {
+        "en": "Pirate Party Colombia",
+        "co": "Partido Pirata Colombiano"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/www.partidopirataco.org\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "pirataco",
+            "id": "106175967648"
+        },
+        "twitter": {
+            "username": "ppco",
+            "hashtag": null
+        },
+        "googlePlus": "108715131463256494120",
+        "youtube": "partidopirataco",
+        "irc": {
+            "ircChannel": null,
+            "ircServer": null
+        }
+    },
+    "membership": {
+        "ppi": false
+    },
+    "contact": {
+        "general": {
+            "url": "http:\/\/www.partidopirataco.org\/contact.php"
+        }
+    },
+    "partyCode": "PPCO"
+}

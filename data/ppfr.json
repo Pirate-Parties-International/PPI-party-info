@@ -1,0 +1,38 @@
+{
+    "countryCode": "fr",
+    "country": "France",
+    "partyName": {
+        "en": "Pirate Party France",
+        "fr": "Parti Pirate"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/www.partipirate.org"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "partipiratefr",
+            "id": "191571518686"
+        },
+        "twitter": {
+            "username": "PartiPirate",
+            "hashtag": "#PartiPirate"
+        },
+        "googlePlus": "107024826683956068880",
+        "youtube": "partipirate",
+        "irc": {
+            "ircChannel": "#partipirate",
+            "ircServer": "irc.pirateirc.net"
+        }
+    },
+    "membership": {
+        "ppi": true
+    },
+    "contact": {
+        "general": {
+            "email": "contact@partipirate.org"
+        }
+    },
+    "partyCode": "PPFR"
+}
