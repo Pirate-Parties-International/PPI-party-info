@@ -1,0 +1,39 @@
+{
+    "countryCode": "it",
+    "country": "Italia",
+    "partyName": {
+        "en": "Pirate Party Italy",
+        "it": "Partito Pirata italiano"
+    },
+    "type": "national",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/www.partito-pirata.it"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "partitopirata",
+            "id": "96268424342"
+        },
+        "twitter": {
+            "username": "partitopirata",
+            "hashtag": "#PartitoPirata"
+        },
+        "googlePlus": "102222048663864053271",
+        "youtube": "",
+        "irc": {
+            "ircChannel": "pirati",
+            "ircServer": "hinezumi.im"
+        }
+    },
+    "membership": {
+        "ppi": true,
+        "ppeu": true
+    },
+    "contact": {
+        "general": {
+            "email": "info@partito-pirata.it"
+        }
+    },
+    "partyCode": "PPIT"
+}
