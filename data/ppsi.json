@@ -3,7 +3,7 @@
     "country": "Slovenia",
     "partyName": {
         "en": "Pirate Party Slovenia",
-        "si": "Piratska stranka Slovenije"
+        "sl": "Piratska stranka Slovenije"
     },
     "type": "national",
     "parentorganisation": null,
@@ -32,7 +32,10 @@
     },
     "contact": {
         "general": {
-            "email": "info@piratskastranka.net"
+            "email": "info@piratskastranka.si"
+        },
+        "international": {
+            "email": "international@piratskastranka.si"
         }
     },
     "partyCode": "PPSI"
