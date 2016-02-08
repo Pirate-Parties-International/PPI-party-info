@@ -14,7 +14,7 @@ This is the fastes way. If you are familiar with git & github submit a pull requ
 2. *Email.*
 Slower, but you may email one of the moderators and request a data change. Please include the exact data and reasons for the change.
 
-Documentation on data structure [can be found here](docs/data_specification.md)
+Documentation on data structure [can be found here](doc/data_specification.md)
 
 ## Structure
 
