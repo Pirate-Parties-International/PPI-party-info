@@ -5,7 +5,7 @@ Central repository for basic information about Pirate Parties around the world.
 The data is publicly accessible at http://api.piratetimes.net
 
 
-## How update the information
+## How to update the information
 
 Anyone can submit a request to change/update the data. This can be done in two ways:
 
@@ -13,6 +13,8 @@ Anyone can submit a request to change/update the data. This can be done in two w
 This is the fastes way. If you are familiar with git & github submit a pull request to this repository. One of the moderators will confirm the data validity of the request and merge the data. 
 2. *Email.*
 Slower, but you may email one of the moderators and request a data change. Please include the exact data and reasons for the change.
+
+Documentation on data structure [can be found here](docs/data_specification.md)
 
 ## Structure
 
