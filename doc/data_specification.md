@@ -120,7 +120,7 @@ Known keys:
 * official (required)
 * forum
 * liquidfeedback
-* wifi
+* wiki
 
 Other keys can also be added but will be ignored by the website untill implemented. If you add an unknown key submit a ticket.
 
