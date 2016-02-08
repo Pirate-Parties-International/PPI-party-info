@@ -38,5 +38,12 @@
             "email": "international@piratskastranka.si"
         }
     },
-    "partyCode": "PPSI"
+    "partyCode": "PPSI",
+    "headquarters": {
+        "coordinates": {
+            "longitude": "14.505751",
+            "latitude" : "46.056947 "
+        },
+        "address": "Majaronova ulica 6, 1000 Ljubljana"
+    }
 }
