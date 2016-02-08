@@ -77,7 +77,7 @@ This dataset should not be used to log international organisations.
 
 **Region**
 
-*For parties of _type_ NATIONAL only!*
+*For parties of _type_ REGIONAL only!*
 
 Upper/Lower case, spaces etc. will be preserved. Use english names.
 
