@@ -28,7 +28,7 @@ Note: The data format is mostly self explanitory, but documentation will be prov
 "partyCode": "PPSI"
 ```
 
-**Country ID**
+**Country Code**
 
 Used to define country of origin. Presumes only one party per country.
 
@@ -207,10 +207,16 @@ Currently supported:
 * "ppi" - Pirate Parties International
 * "ppeu" - European Pirate Party
 
+Accepted keys are:
+* full
+* observer
+
+Others can be added on request.
+
 ```
 "membership": {
-        "ppi": true,
-        "ppeu": false
+        "ppi": "full",
+        "ppeu": "full"
     },
 ```
 

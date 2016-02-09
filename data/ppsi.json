@@ -27,8 +27,8 @@
         }
     },
     "membership": {
-        "ppi": true,
-        "ppeu": true
+        "ppi": "full",
+        "ppeu": "full"
     },
     "contact": {
         "general": {
@@ -42,7 +42,7 @@
     "headquarters": {
         "coordinates": {
             "longitude": "14.505751",
-            "latitude" : "46.056947 "
+            "latitude": "46.056947 "
         },
         "address": "Majaronova ulica 6, 1000 Ljubljana"
     }

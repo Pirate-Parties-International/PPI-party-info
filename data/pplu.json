@@ -27,8 +27,8 @@
         }
     },
     "membership": {
-        "ppi": true,
-        "ppeu": true
+        "ppi": "full",
+        "ppeu": "full"
     },
     "contact": {
         "general": {
