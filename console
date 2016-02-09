@@ -3,8 +3,8 @@
 
 require __DIR__.'/vendor/autoload.php';
 
-use PapiInfo\Console\Command\CompileCommand;
-use PapiInfo\Console\Command\VerifyCommand;
+use PPI\PapiInfo\Console\Command\CompileCommand;
+use PPI\PapiInfo\Console\Command\VerifyCommand;
 use Symfony\Component\Console\Application;
 
 $application = new Application();

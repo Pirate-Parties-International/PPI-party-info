@@ -1,6 +1,6 @@
 <?php
 
-namespace PapiInfo\Console\Command;
+namespace PPI\PapiInfo\Console\Command;
 
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputArgument;

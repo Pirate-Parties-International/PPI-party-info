@@ -1,6 +1,6 @@
 <?php
 
-namespace PapiInfo;
+namespace PPI\PapiInfo;
 
 /**
 * Used to compile data and pass it into other applications

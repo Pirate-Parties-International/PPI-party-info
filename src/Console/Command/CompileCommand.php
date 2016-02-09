@@ -1,6 +1,6 @@
 <?php
 
-namespace PapiInfo\Console\Command;
+namespace PPI\PapiInfo\Console\Command;
 
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputArgument;
@@ -8,7 +8,7 @@ use Symfony\Component\Console\Input\InputInterface;
 use Symfony\Component\Console\Input\InputOption;
 use Symfony\Component\Console\Output\OutputInterface;
 
-use PapiInfo\Compile;
+use PPI\PapiInfo\Compile;
 
 
 class CompileCommand extends Command
