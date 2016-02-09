@@ -11,7 +11,7 @@
     "require": {
         "php": ">=5.5.0",
         "seld/jsonlint": "^1.4",
-        "symfony/console": "^3.0"
+        "symfony/console": ">=2.8"
     },
     "autoload": {
 	    "psr-4": { "Pirates\\PapiInfo\\": "src/" }
