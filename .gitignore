@@ -1,2 +1,3 @@
 *.sublime*
 compiled_data.json
+vendor/

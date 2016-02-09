@@ -1,0 +1,10 @@
+{
+    "require": {
+        "seld/jsonlint": "^1.4",
+        "symfony/console": "^3.0"
+    },
+    "autoload": {
+	    "psr-4": { "PapiInfo\\": "src/" }
+	}
+}
+
