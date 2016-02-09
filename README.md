@@ -1,4 +1,4 @@
-# PPI Party Info
+# Pirate Party Info
 
 Central repository for basic information about Pirate Parties around the world.
 

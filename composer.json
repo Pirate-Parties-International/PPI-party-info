@@ -1,5 +1,5 @@
 {
-    "name": "ppi/papi-info",
+    "name": "pirates/papi-info",
     "description": "Data repository for Pirate Parties around the world.",
     "license": "CC0-1.0",
     "authors": [
@@ -14,7 +14,7 @@
         "symfony/console": "^3.0"
     },
     "autoload": {
-	    "psr-4": { "PPI\\PapiInfo\\": "src/" }
+	    "psr-4": { "Pirates\\PapiInfo\\": "src/" }
 	}
 }
 
