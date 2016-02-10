@@ -24,6 +24,10 @@
         "irc": {
             "ircChannel": "#ppau",
             "ircServer": "irc.pirateirc.net"
+        },
+        "dfsn": {
+            "id": "piratepartyau@diasp.org",
+            "type": "diaspora"
         }
     },
     "membership": {
