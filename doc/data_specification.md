@@ -175,7 +175,17 @@ ID - integer
 ```
 "googlePlus": "ID",
 ```
-Full example:
+
+*Decentralized federated social networks*
+
+```
+"dfsn": {
+    "id": "piratpartiet_norge@joindiaspora.com",
+    "type": "diaspora"
+}
+```
+
+*Full example:**
 
 ```
 "socialNetworks": {
@@ -192,6 +202,10 @@ Full example:
         "irc": {
             "ircChannel": "#piratskastranka",
             "ircServer": "irc.freenode.net"
+        },
+        "dfsn": {
+            "id": "piratpartiet_norge@joindiaspora.com",
+            "type": "diaspora"
         }
     },
 ```
