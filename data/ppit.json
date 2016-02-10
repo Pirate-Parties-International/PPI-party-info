@@ -24,6 +24,10 @@
         "irc": {
             "ircChannel": "pirati",
             "ircServer": "hinezumi.im"
+        },
+        "dfsn": {
+            "id": "partitopirata@friendica.ambientedigital.org",
+            "type": "friendica"
         }
     },
     "membership": {
