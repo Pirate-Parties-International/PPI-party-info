@@ -24,6 +24,10 @@
         "irc": {
             "ircChannel": null,
             "ircServer": null
+        },
+        "dfsn": {
+            "id": "partidopiratauruguay@diasp.eu",
+            "type": "diaspora"
         }
     },
     "membership": {
