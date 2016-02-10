@@ -24,6 +24,10 @@
         "irc": {
             "ircChannel": "#Canada",
             "ircServer": "irc.pirateparty.ca"
+        },
+        "dfsn": {
+            "id": "piratepartyca@diasp.org",
+            "type": "diaspora"
         }
     },
     "membership": {
