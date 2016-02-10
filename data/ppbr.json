@@ -24,6 +24,10 @@
         "irc": {
             "ircChannel": null,
             "ircServer": null
+        },
+        "dfsn": {
+            "id": "piratas_br@diasporabr.com.br",
+            "type": "diaspora"
         }
     },
     "membership": {
