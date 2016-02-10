@@ -24,6 +24,10 @@
         "irc": {
             "ircChannel": "#partipirate",
             "ircServer": "irc.pirateirc.net"
+        },
+        "dfsn": {
+            "id": "partipirate@joindiaspora.com",
+            "type": "diaspora"
         }
     },
     "membership": {
