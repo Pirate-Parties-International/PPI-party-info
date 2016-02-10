@@ -24,6 +24,10 @@
         "irc": {
             "ircChannel": "#piratepin",
             "ircServer": "irc.pirateirc.net"
+        },
+        "dfsn": {
+            "id": "piratpartiet_norge@joindiaspora.com",
+            "type": "diaspora"
         }
     },
     "membership": {
