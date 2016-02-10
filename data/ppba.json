@@ -24,6 +24,10 @@
         "irc": {
             "ircChannel": null,
             "ircServer": null
+        },
+        "dfsn": {
+            "id": "piratskapartija@joindiaspora.com",
+            "type": "diaspora"
         }
     },
     "membership": {
