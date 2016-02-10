@@ -24,6 +24,10 @@
         "irc": {
             "ircChannel": "#piratenpartei",
             "ircServer": "irc.freenode.org"
+        },
+        "dfsn": {
+            "id": "piratenpartei@joindiaspora.com",
+            "type": "diaspora"
         }
     },
     "membership": {
