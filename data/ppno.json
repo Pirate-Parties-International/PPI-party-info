@@ -24,6 +24,10 @@
         "irc": {
             "ircChannel": "#piratpartiet.no",
             "ircServer": "irc.pirateirc.net"
+        },
+        "dfsn": {
+            "id": "piratepin@diasp.org",
+            "type": "diaspora"
         }
     },
     "membership": {
