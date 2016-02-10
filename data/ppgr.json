@@ -24,6 +24,10 @@
         "irc": {
             "ircChannel": "#ppgr",
             "ircServer": "irc.pirateirc.net"
+        },
+        "dfsn": {
+            "id": " piratepartygreece@joindiaspora.com",
+            "type": "diaspora"
         }
     },
     "membership": {
