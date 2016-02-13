@@ -9,6 +9,7 @@
     "parentorganisation": null,
     "websites": {
         "official": "http:\/\/www.pirati.cz"
+        "forum": "http:\/\/www.forum.pirati.cz"
     },
     "socialNetworks": {
         "facebook": {
@@ -33,7 +34,18 @@
     "contact": {
         "general": {
             "email": "info@pirati.cz"
+        },
+        "international" {
+            "email": "international@pirati.cz"
         }
+    }
     },
     "partyCode": "PPCZ"
+}
+"headquarters": {
+    "coordinates": {
+        "longitude": "50.086310",
+        "latitude" : "14.442109"
+    },
+    "address": "Řehořova 943/19,130 00 Praha"
 }
