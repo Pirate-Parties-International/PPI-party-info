@@ -8,7 +8,8 @@
     "type": "national",
     "parentorganisation": null,
     "websites": {
-        "official": "http:\/\/www.pirati.cz"
+        "official": "https:\/\/www.pirati.cz",
+        "forum": "https:\/\/forum.pirati.cz"
     },
     "socialNetworks": {
         "facebook": {
@@ -22,8 +23,8 @@
         "googlePlus": "110067291132654563670",
         "youtube": "CeskaPiratskaStrana",
         "irc": {
-            "ircChannel": null,
-            "ircServer": null
+            "ircChannel": "#webchat",
+            "ircServer": "irc.pirati.cz"
         }
     },
     "membership": {
@@ -33,7 +34,17 @@
     "contact": {
         "general": {
             "email": "info@pirati.cz"
+        },
+        "international": {
+            "email": "international@pirati.cz"
         }
     },
-    "partyCode": "PPCZ"
+    "partyCode": "PPCZ",
+    "headquarters": {
+        "coordinates": {
+            "longitude": "50.086310",
+            "latitude" : "14.442109"
+        },
+        "address": "\u0158eho\u0159ova 943/19, 13000 Praha"
+    }
 }
