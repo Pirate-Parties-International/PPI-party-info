@@ -2,7 +2,7 @@
     "countryCode": "uk",
     "country": "United Kingdom",
     "partyName": {
-        "en": "Pirate Party United Kingdom",
+        "en": "Pirate Party UK",
         "uk": "Pirate Party UK"
     },
     "type": "national",
@@ -27,7 +27,7 @@
         }
     },
     "membership": {
-        "ppi": "full",
+        "ppi": false,
         "ppeu": false
     },
     "contact": {
