@@ -6,7 +6,6 @@
         "ar": "Partido Pirata Argentino"
     },
     "type": "national",
-    "parentorganisation": null,
     "websites": {
         "official": "http:\/\/www.partidopirata.com.ar\/"
     },
@@ -19,8 +18,6 @@
             "username": "partidopirataar",
             "hashtag": null
         },
-        "googlePlus": null,
-        "youtube": null,
         "irc": {
             "ircChannel": "#ppar",
             "ircServer": "irc.freenode.net"

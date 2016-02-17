@@ -6,7 +6,6 @@
         "fr": "Parti Pirate"
     },
     "type": "national",
-    "parentorganisation": null,
     "websites": {
         "official": "http:\/\/www.partipirate.org"
     },
@@ -20,7 +19,6 @@
             "hashtag": "#PartiPirate"
         },
         "googlePlus": "107024826683956068880",
-        "youtube": null,
         "irc": {
             "ircChannel": "#partipirate",
             "ircServer": "irc.pirateirc.net"

@@ -6,7 +6,6 @@
         "dk": "Piratpartiet"
     },
     "type": "national",
-    "parentorganisation": null,
     "websites": {
         "official": "http:\/\/www.piratpartiet.dk\/"
     },
@@ -20,7 +19,6 @@
             "hashtag": null
         },
         "googlePlus": "110104014765371755397",
-        "youtube": null,
         "irc": {
             "ircChannel": "#piratpartiet.dk",
             "ircServer": "irc.pirateirc.net"

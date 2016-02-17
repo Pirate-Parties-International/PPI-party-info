@@ -6,7 +6,6 @@
         "is": "P\u00edratapart\u00fdi\u00f0"
     },
     "type": "national",
-    "parentorganisation": null,
     "websites": {
         "official": "http:\/\/www.pirateparty.is\/"
     },
@@ -19,7 +18,6 @@
             "username": "PiratePartyIS",
             "hashtag": null
         },
-        "googlePlus": null,
         "youtube": "PiratePartyIceland",
         "irc": {
             "ircChannel": "#ispp",

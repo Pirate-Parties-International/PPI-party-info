@@ -6,7 +6,6 @@
         "br": "Partido Pirata do Brasil"
     },
     "type": "national",
-    "parentorganisation": null,
     "websites": {
         "official": "http:\/\/partidopirata.org"
     },
@@ -18,12 +17,6 @@
         "twitter": {
             "username": "PartidoPirataBR",
             "hashtag": "#PPBr"
-        },
-        "googlePlus": null,
-        "youtube": null,
-        "irc": {
-            "ircChannel": null,
-            "ircServer": null
         },
         "dfsn": {
             "id": "piratas_br@diasporabr.com.br",

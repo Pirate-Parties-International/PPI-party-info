@@ -6,7 +6,6 @@
         "ro": "Partidul Pirat Rom\u00e2nia"
     },
     "type": "national",
-    "parentorganisation": null,
     "websites": {
         "official": "http:\/\/partidulpirat.ro\/"
     },
@@ -19,7 +18,6 @@
             "username": "ropirates",
             "hashtag": "#partidulpirat"
         },
-        "googlePlus": null,
         "youtube": "PartidulPiratRomania",
         "irc": {
             "ircChannel": "#partidulpirat",

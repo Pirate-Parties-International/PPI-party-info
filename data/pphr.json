@@ -6,7 +6,6 @@
         "hr": "Piratska Stranka Hrvatske"
     },
     "type": "national",
-    "parentorganisation": null,
     "websites": {
         "official": "http:\/\/www.pirati.hr\/"
     },
@@ -20,11 +19,7 @@
             "hashtag": "#PiratskaHRV"
         },
         "googlePlus": "108030670557918439195",
-        "youtube": "piratiHR",
-        "irc": {
-            "ircChannel": null,
-            "ircServer": null
-        }
+        "youtube": "piratiHR"
     },
     "membership": {
         "ppi": "full",

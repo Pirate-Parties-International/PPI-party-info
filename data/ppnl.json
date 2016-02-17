@@ -6,7 +6,6 @@
         "nl": "Piratenpartij Nederland"
     },
     "type": "national",
-    "parentorganisation": null,
     "websites": {
         "official": "http:\/\/www.piratenpartij.nl"
     },
@@ -19,7 +18,6 @@
             "username": "Piratenpartij",
             "hashtag": "#piratenpartij"
         },
-        "googlePlus": null,
         "youtube": "depiratenpartij",
         "irc": {
             "ircChannel": "#piratenpartij",

@@ -6,7 +6,6 @@
         "pl": "Partia Pirat\u00f3w"
     },
     "type": "national",
-    "parentorganisation": null,
     "websites": {
         "official": "http:\/\/polskapartiapiratow.pl\/"
     },
@@ -19,7 +18,6 @@
             "username": "PartiaPiratow",
             "hashtag": null
         },
-        "googlePlus": null,
         "youtube": "PirackaTV",
         "irc": {
             "ircChannel": "#partiapiratow",

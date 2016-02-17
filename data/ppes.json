@@ -6,7 +6,6 @@
         "es": "Partido Pirata"
     },
     "type": "national",
-    "parentorganisation": null,
     "websites": {
         "official": "http:\/\/www.partidopirata.es\/"
     },
@@ -20,7 +19,6 @@
             "hashtag": "#canalpirata"
         },
         "googlePlus": "109128708004334911840",
-        "youtube": null,
         "irc": {
             "ircChannel": "#partidopirata",
             "ircServer": "irc.freenode.net"

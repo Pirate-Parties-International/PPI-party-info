@@ -6,7 +6,6 @@
         "co": "Partido Pirata Colombiano"
     },
     "type": "national",
-    "parentorganisation": null,
     "websites": {
         "official": "http:\/\/www.partidopirataco.org\/"
     },
@@ -20,11 +19,7 @@
             "hashtag": null
         },
         "googlePlus": "108715131463256494120",
-        "youtube": "partidopirataco",
-        "irc": {
-            "ircChannel": null,
-            "ircServer": null
-        }
+        "youtube": "partidopirataco"
     },
     "membership": {
         "ppi": false,

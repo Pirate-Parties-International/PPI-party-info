@@ -6,7 +6,6 @@
         "mx": "Partido Pirata Mexicano"
     },
     "type": "national",
-    "parentorganisation": null,
     "websites": {
         "official": "http:\/\/partidopirata.mx"
     },
@@ -18,12 +17,6 @@
         "twitter": {
             "username": "ppiratamx",
             "hashtag": "#ppiratamx"
-        },
-        "googlePlus": null,
-        "youtube": null,
-        "irc": {
-            "ircChannel": null,
-            "ircServer": null
         }
     },
     "membership": {

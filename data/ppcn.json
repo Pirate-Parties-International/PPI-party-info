@@ -6,25 +6,15 @@
         "cn": "\u4e2d\u56fd\u76d7\u7248\u515a"
     },
     "type": "national",
-    "parentorganisation": null,
     "websites": {
         "official": null
     },
     "socialNetworks": {
-        "facebook": {
-            "username": null,
-            "id": null
-        },
         "twitter": {
             "username": "CNPirates",
             "hashtag": null
         },
-        "googlePlus": "110449960602649873233",
-        "youtube": null,
-        "irc": {
-            "ircChannel": null,
-            "ircServer": null
-        }
+        "googlePlus": "110449960602649873233"
     },
     "membership": {
         "ppi": false,

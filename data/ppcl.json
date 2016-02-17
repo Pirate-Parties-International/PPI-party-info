@@ -6,7 +6,6 @@
         "cl": "Partido Pirata de Chile"
     },
     "type": "national",
-    "parentorganisation": null,
     "websites": {
         "official": "http:\/\/www.partidopirata.cl\/"
     },
@@ -18,12 +17,6 @@
         "twitter": {
             "username": "PP_CL",
             "hashtag": null
-        },
-        "googlePlus": null,
-        "youtube": null,
-        "irc": {
-            "ircChannel": null,
-            "ircServer": null
         }
     },
     "membership": {

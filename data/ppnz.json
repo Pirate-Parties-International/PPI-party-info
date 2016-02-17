@@ -6,7 +6,6 @@
         "nz": "Pirate Party New Zealand"
     },
     "type": "national",
-    "parentorganisation": null,
     "websites": {
         "official": "http:\/\/pirateparty.org.nz\/"
     },
@@ -20,7 +19,6 @@
             "hashtag": "#ppnz"
         },
         "googlePlus": "112730422942838390375",
-        "youtube": null,
         "irc": {
             "ircChannel": "#ppnz",
             "ircServer": "irc.pirateirc.net"

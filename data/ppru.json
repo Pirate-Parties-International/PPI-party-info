@@ -6,7 +6,6 @@
         "ru": "\u041f\u0438\u0440\u0430\u0442\u0441\u043a\u0430\u044f \u043f\u0430\u0440\u0442\u0438\u044f \u0420\u043e\u0441\u0441\u0438\u0438"
     },
     "type": "national",
-    "parentorganisation": null,
     "websites": {
         "official": "http:\/\/pirate-party.ru\/"
     },
@@ -20,11 +19,7 @@
             "hashtag": "#\u00d0\u0178\u00d0\u0178\u00d0  && #PPRU"
         },
         "googlePlus": "111989157114065265187",
-        "youtube": "PiratePartyRussia",
-        "irc": {
-            "ircChannel": null,
-            "ircServer": null
-        }
+        "youtube": "PiratePartyRussia"
     },
     "membership": {
         "ppi": "full",

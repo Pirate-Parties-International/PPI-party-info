@@ -6,9 +6,7 @@
         "ve": "Partido Pirata de Venezuela"
     },
     "type": "national",
-    "parentorganisation": null,
     "websites": {
-        "official": null,
     },
     "socialNetworks": {
         "facebook": {
@@ -19,12 +17,7 @@
             "username": "PP_Ve",
             "hashtag": "#ppve"
         },
-        "googlePlus": "114129608964604546067",
-        "youtube": null,
-        "irc": {
-            "ircChannel": null,
-            "ircServer": null
-        }
+        "googlePlus": "114129608964604546067"
     },
     "membership": {
         "ppi": false,

@@ -6,7 +6,6 @@
         "me": "Piratska Partija Crne Gore"
     },
     "type": "national",
-    "parentorganisation": null,
     "websites": {
         "official": null
     },
@@ -18,12 +17,6 @@
         "twitter": {
             "username": "CGPiratska",
             "hashtag": null
-        },
-        "googlePlus": null,
-        "youtube": null,
-        "irc": {
-            "ircChannel": null,
-            "ircServer": null
         }
     },
     "membership": {

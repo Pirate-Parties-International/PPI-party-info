@@ -2,11 +2,9 @@
     "countryCode": "cy",
     "country": "Cyprus",
     "partyName": {
-        "en": "Pirate Party Cyprus",
-        "cy": null
+        "en": "Pirate Party Cyprus"
     },
     "type": "national",
-    "parentorganisation": null,
     "websites": {
         "official": "http:\/\/www.piratepartycyprus.com\/"
     },
@@ -18,12 +16,6 @@
         "twitter": {
             "username": "PiratePartyCY",
             "hashtag": null
-        },
-        "googlePlus": null,
-        "youtube": null,
-        "irc": {
-            "ircChannel": null,
-            "ircServer": null
         }
     },
     "membership": {

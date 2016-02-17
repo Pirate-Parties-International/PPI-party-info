@@ -6,9 +6,8 @@
         "ba": "Piratska Partija Bosne i Hercegovine"
     },
     "type": "national",
-    "parentorganisation": null,
     "websites": {
-        "official": http://www.piratskapartija.ba
+        "official": "http://www.piratskapartija.ba"
     },
     "socialNetworks": {
         "facebook": {
@@ -19,12 +18,7 @@
             "username": "PP_ba",
             "hashtag": null
         },
-        "googlePlus": null,
         "youtube": "piratskapartijaBA",
-        "irc": {
-            "ircChannel": null,
-            "ircServer": null
-        },
         "dfsn": {
             "id": "piratskapartija@joindiaspora.com",
             "type": "diaspora"
@@ -35,7 +29,7 @@
         "ppeu": false
     },
     "contact": {
-        "general": info@piratskapartija.ba
+        "general": "info@piratskapartija.ba"
     },
     "partyCode": "PPBA"
 }

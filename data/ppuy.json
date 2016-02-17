@@ -6,7 +6,6 @@
         "uy": "Partido Pirata en Uruguay"
     },
     "type": "national",
-    "parentorganisation": null,
     "websites": {
         "official": "http:\/\/partidopirata.org.uy\/"
     },
@@ -20,11 +19,6 @@
             "hashtag": null
         },
         "googlePlus": "118014205139800457049",
-        "youtube": null,
-        "irc": {
-            "ircChannel": null,
-            "ircServer": null
-        },
         "dfsn": {
             "id": "partidopiratauruguay@diasp.eu",
             "type": "diaspora"

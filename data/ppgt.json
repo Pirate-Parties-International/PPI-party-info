@@ -6,7 +6,6 @@
         "gt": "Partido Pirata Guatemala"
     },
     "type": "national",
-    "parentorganisation": null,
     "websites": {
         "official": "http:\/\/partidopirata.org.gt\/"
     },
@@ -18,12 +17,6 @@
         "twitter": {
             "username": "piratagt",
             "hashtag": "#piratagt"
-        },
-        "googlePlus": null,
-        "youtube": null,
-        "irc": {
-            "ircChannel": null,
-            "ircServer": null
         }
     },
     "membership": {

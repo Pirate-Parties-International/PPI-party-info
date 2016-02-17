@@ -6,7 +6,6 @@
         "be": "Parti Pirate && Piraten Partij && Piraten Partei"
     },
     "type": "national",
-    "parentorganisation": null,
     "websites": {
         "official": "http:\/\/pirateparty.be\/"
     },
@@ -20,7 +19,6 @@
             "hashtag": "#PPbe"
         },
         "googlePlus": "116807964886706853506",
-        "youtube": null,
         "irc": {
             "ircChannel": "#ppbe",
             "ircServer": "irc.pirateirc.net"

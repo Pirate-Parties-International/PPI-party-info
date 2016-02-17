@@ -6,7 +6,6 @@
         "in": "Pirate Party India"
     },
     "type": "national",
-    "parentorganisation": null,
     "websites": {
         "official": "http:\/\/www.pirateparty.org.in\/"
     },
@@ -19,8 +18,6 @@
             "username": "PiratePIN",
             "hashtag": null
         },
-        "googlePlus": null,
-        "youtube": null,
         "irc": {
             "ircChannel": "#piratepin",
             "ircServer": "irc.pirateirc.net"

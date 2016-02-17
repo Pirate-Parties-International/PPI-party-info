@@ -6,7 +6,6 @@
         "hu": "Kalozpart"
     },
     "type": "national",
-    "parentorganisation": null,
     "websites": {
         "official": "http:\/\/kalozpart.org\/"
     },
@@ -19,12 +18,7 @@
             "username": "kalozpart_org",
             "hashtag": null
         },
-        "googlePlus": null,
-        "youtube": "kalozpart",
-        "irc": {
-            "ircChannel": null,
-            "ircServer": null
-        }
+        "youtube": "kalozpart"
     },
     "membership": {
         "ppi": false,

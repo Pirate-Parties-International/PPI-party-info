@@ -6,7 +6,6 @@
         "lt": "Lietuvos Pirat\u0173 Partija"
     },
     "type": "national",
-    "parentorganisation": null,
     "websites": {
         "official": "http:\/\/piratupartija.lt\/"
     },
@@ -15,16 +14,8 @@
             "username": "PiratuPartija",
             "id": "238566536218639"
         },
-        "twitter": {
-            "username": null,
-            "hashtag": null
-        },
         "googlePlus": "113306357989921867158",
-        "youtube": "piratupartija",
-        "irc": {
-            "ircChannel": null,
-            "ircServer": null
-        }
+        "youtube": "piratupartija"
     },
     "membership": {
         "ppi": false,
