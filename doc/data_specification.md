@@ -256,3 +256,11 @@ For contact type "email" is the only one currently supported. Support for others
     }
 }
 ```
+
+**Defunct**
+
+Marks party as not active.
+
+```
+"defunct": true
+```
