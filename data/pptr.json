@@ -33,5 +33,6 @@
     "contact": {
         "general": null
     },
-    "partyCode": "PPTR"
+    "partyCode": "PPTR",
+    "defunct": true
 }

@@ -35,5 +35,6 @@
             "email": "info@piratskastrana.sk"
         }
     },
-    "partyCode": "PPSK"
+    "partyCode": "PPSK",
+    "defunct": true
 }

@@ -39,5 +39,6 @@
             "email": "info@partidopirata.org.uy"
         }
     },
-    "partyCode": "PPUY"
+    "partyCode": "PPUY",
+    "defunct": true
 }
