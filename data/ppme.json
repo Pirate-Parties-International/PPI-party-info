@@ -26,5 +26,6 @@
     "contact": {
         "general": null
     },
-    "partyCode": "PPME"
+    "partyCode": "PPME",
+    "defunct": true
 }

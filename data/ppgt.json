@@ -26,5 +26,6 @@
     "contact": {
         "general": null
     },
-    "partyCode": "PPGT"
+    "partyCode": "PPGT",
+    "defunct": true
 }

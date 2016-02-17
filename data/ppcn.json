@@ -23,5 +23,6 @@
     "contact": {
         "general": null
     },
-    "partyCode": "PPCN"
+    "partyCode": "PPCN",
+    "defunct": true
 }

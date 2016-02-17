@@ -32,5 +32,6 @@
             "email": "info@piratupartija.lv"
         }
     },
-    "partyCode": "PPLV"
+    "partyCode": "PPLV",
+    "defunct": true
 }

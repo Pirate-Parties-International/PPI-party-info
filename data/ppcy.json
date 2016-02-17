@@ -27,5 +27,6 @@
             "url": "http:\/\/www.piratepartycyprus.com\/index.php?go=contact-us"
         }
     },
-    "partyCode": "PPCY"
+    "partyCode": "PPCY",
+    "defunct": true
 }

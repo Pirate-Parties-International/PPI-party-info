@@ -28,5 +28,6 @@
             "email": "viva@partidopirata.mx"
         }
     },
-    "partyCode": "PPMX"
+    "partyCode": "PPMX",
+    "defunct": true
 }

@@ -31,5 +31,6 @@
     "contact": {
         "general": "info@piratskapartija.ba"
     },
-    "partyCode": "PPBA"
+    "partyCode": "PPBA",
+    "defunct": true
 }
