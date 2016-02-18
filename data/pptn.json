@@ -1,0 +1,43 @@
+{
+    "countryCode": "tn",
+    "country": "Tunisia",
+    "partyName": {
+        "en": "Pirate Party Tunisia",
+        "fr": "Parti Pirate Tunisie",
+        "ar": "%D8%AD%D8%B2%D8%A8%20%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B5%D9%86%D8%A9"
+    },
+    "type": "national",
+    "websites": {
+        "official": "http:\/\/www.partipirate.tn\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "Pirate.Party.TN",
+            "id": "158767944189131"
+        },
+        "twitter": {
+            "username": PP_TN,
+            "hashtag": null
+        },
+        "googlePlus": null,
+        "youtube": null,
+        "irc": {
+            "ircChannel": null,
+            "ircServer": null
+        },
+        "dfsn": {
+            "id": null,
+            "type": null
+        }
+    },
+    "membership": {
+        "ppi": "full",
+        "ppeu": false
+    },
+    "contact": {
+        "general": {
+            "email": "pptn-social@lists.riseup.net"
+        }
+    },
+    "partyCode": "PPTN"
+}

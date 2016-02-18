@@ -1,0 +1,42 @@
+{
+    "countryCode": "il",
+    "country": "Israel",
+    "partyName": {
+        "en": "Pirate Party Israel",
+        "he": "%D7%94%D7%9E%D7%A4%D7%9C%D7%92%D7%94%20%D7%94%D7%A4%D7%99%D7%A8%D7%90%D7%98%D7%99%D7%AA%20%D7%94%D7%99%D7%A9%D7%A8%D7%90%D7%9C%D7%99%D7%AA"
+    },
+    "type": "national",
+    "websites": {
+        "official": "http:\/\/www.piratim.org\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "Piratim",
+            "id": "480492801979679"
+        },
+        "twitter": {
+            "username": "piratim",
+            "hashtag": null
+        },
+        "googlePlus": null,
+        "youtube": "PiratePartyIsrael",
+        "irc": {
+            "ircChannel": null,
+            "ircServer": null
+        },
+        "dfsn": {
+            "id": null,
+            "type": null
+        }
+    },
+    "membership": {
+        "ppi": "full",
+        "ppeu": false
+    },
+    "contact": {
+        "general": {
+            "url": "http:\/\/piratim.org\/contact\/"
+        }
+    },
+    "partyCode": "PPIL2"
+}

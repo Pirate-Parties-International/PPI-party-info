@@ -1,0 +1,42 @@
+{
+    "countryCode": "cat",
+    "country": "Catalonia",
+    "partyName": {
+        "en": "Pirate Party Catalonia",
+        "cat": "Pirates de Catalunya"
+    },
+    "type": "national",
+    "websites": {
+        "official": "http:\/\/www.pirata.cat\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "pirata.cat",
+            "id": "139703722733025"
+        },
+        "twitter": {
+            "username": "partit_pirata",
+            "hashtag": "#votapirata"
+        },
+        "googlePlus": null,
+        "youtube": "PiratesdeCatalunyaTV",
+        "irc": {
+            "ircChannel": "#pirata.cat",
+            "ircServer": "irc.freenode.net"
+        },
+        "dfsn": {
+            "id": null,
+            "type": null
+        }
+    },
+    "membership": {
+        "ppi": "full",
+        "ppeu": "full"
+    },
+    "contact": {
+        "general": {
+            "url": "https:\/\/xifrat.pirata.cat\/contacte\/"
+        }
+    },
+    "partyCode": "PPCAT"
+}

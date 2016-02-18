@@ -1,0 +1,42 @@
+{
+    "countryCode": "jp",
+    "country": "Japan",
+    "partyName": {
+        "en": "Pirate Party Japan",
+        "jp": "%E6%97%A5%E6%9C%AC%E6%B5%B7%E8%B3%8A%E5%85%9A"
+    },
+    "type": "national",
+    "websites": {
+        "official": "http:\/\/www.piratepartyjapan.org\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "piratepartyjapan",
+            "id": "415239148528796"
+        },
+        "twitter": {
+            "username": "pirateparty_jp",
+            "hashtag": null
+        },
+        "googlePlus": null,
+        "youtube": null,
+        "irc": {
+            "ircChannel": null,
+            "ircServer": null
+        },
+        "dfsn": {
+            "id": null,
+            "type": null
+        }
+    },
+    "membership": {
+        "ppi": "full",
+        "ppeu": "observer"
+    },
+    "contact": {
+        "general": {
+            "url": "http:\/\/www.piratepartyjapan.org\/?page_id=190"
+        }
+    },
+    "partyCode": "PPAU"
+}
