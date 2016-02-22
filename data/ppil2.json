@@ -38,5 +38,6 @@
             "url": "http:\/\/piratim.org\/contact\/"
         }
     },
-    "partyCode": "PPIL2"
+    "partyCode": "PPIL2",
+    "defunct": true
 }
