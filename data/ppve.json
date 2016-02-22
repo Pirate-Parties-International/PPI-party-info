@@ -28,5 +28,6 @@
             "email": "contacto@ppirata.org"
         }
     },
-    "partyCode": "PPVE"
+    "partyCode": "PPVE",
+    "defunct": true
 }
