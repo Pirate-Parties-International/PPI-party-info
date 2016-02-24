@@ -1,0 +1,25 @@
+{
+    "countryCode": "de",
+    "country": "Germany",
+    "partyName": {
+      "en": "Pirate Party Bonn",
+      "de": "Piratenpartei Bonn"
+    },
+    "type": "regional",
+    "region": "Bonn",
+    "websites": {
+        "official": null
+    },
+    "socialNetworks": {
+        "dfsn": {
+          "id": "piratenbonn@pod.geraspora.de",
+          "type": "diaspora"
+        }
+    },
+    "contact": {
+        "general": {
+            "email": null
+        }
+    },
+    "defunct": ""
+}
