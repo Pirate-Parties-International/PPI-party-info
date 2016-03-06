@@ -4,7 +4,7 @@
     "partyName": {
         "cz": "Mladí Piráti"
     },
-    "partyCode":  YPCZ 
+    "partyCode":  "YPCZ", 
     "type": "youth",
     "parentorganisation": "PPCZ",
     "headquarters": {
