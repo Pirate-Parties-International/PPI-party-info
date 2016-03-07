@@ -2,7 +2,7 @@
     "countryCode": "cz",
     "country": "Czech Republic",
     "partyName": {
-        "cz": "Mladí Piráti",
+        "cz": "Mladí Piráti"
     },
     "partyCode":  "YPCZ", 
     "type": "youth",
@@ -12,7 +12,7 @@
          "longitude": "16.621895",
          "latitude" : "49.217326"
         },
-        "address": "Bendlova 29, 613 00 Brno",
+        "address": "Bendlova 29, 613 00 Brno"
     },
     "websites": {
         "official": "http:\/\/www.mladipirati.cz",
@@ -22,14 +22,14 @@
         "facebook": {
             "username": "Mladí Piráti",
             "id": "687843237907830"
-        },
+        }
     },
     "membership": {
-        "ype": true,
+        "ype": true
     },
     "contact": {
         "general": {
             "email": "petr.novotny@pirati.cz"
         }
-    },
+    }
 }
