@@ -2,6 +2,7 @@
     "countryCode": "cz",
     "country": "Czech Republic",
     "partyName": {
+        "en": "Young Pirates",
         "cz": "Mladí Piráti"
     },
     "partyCode":  "YPCZ", 
