@@ -12,7 +12,7 @@ Party data is wrapped in a single object with the following properties:
 
 Used as unique identifier.
 
-Party code should follow the standard format:
+Unless standard international identifier already exists (i.e. PPUK instead PPGB), Party code should follow the standard format:
 
 National parties:
 
