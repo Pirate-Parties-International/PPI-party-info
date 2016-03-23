@@ -3,11 +3,11 @@
     "country": "Turkey",
     "partyName": {
         "en": "Pirate Party Turkey",
-        "tr": "Korsan Partisi"
+        "tr": "Korsan Parti"
     },
     "type": "national",
     "websites": {
-        "official": "http:\/\/korsanparti.org\/"
+        "official": "https:\/\/korsanparti.org\/"
     },
     "socialNetworks": {
         "facebook": {
@@ -16,7 +16,7 @@
         },
         "twitter": {
             "username": "korsanparti",
-            "hashtag": null
+            "hashtag": "#korsanparti"
         },
         "youtube": "korsanparti",
         "irc": {
@@ -25,12 +25,13 @@
         }
     },
     "membership": {
-        "ppi": false,
+        "ppi": "full",
         "ppeu": false
     },
     "contact": {
-        "general": null
+        "general": {
+            "email": "bilgi@korsanparti.org"
+        }
     },
-    "partyCode": "PPTR",
-    "defunct": true
+    "partyCode": "PPTR"
 }
