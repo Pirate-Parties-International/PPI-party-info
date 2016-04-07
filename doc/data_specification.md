@@ -18,9 +18,13 @@ National parties:
 
 `PP<nationalISOCode>`
 
-SubParties
+SubParties:
 
 `PP<nationalISOCode>-<subpartyCode>`
+
+Youth Wings:
+
+`YP<nationalISOCode>`
 
 Note: The data format is mostly self explanitory, but documentation will be provided in time.
 
