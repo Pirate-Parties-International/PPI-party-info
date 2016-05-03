@@ -97,7 +97,7 @@ Required if Party Type is other than "national". Value must be Party Code of par
 "parentorganisation": "PPSI",
 ```
 
-**Headquarter**
+**Headquarters**
 
 Used to mark the location of the headquarters. Requires at least one subkey, or both.
 
