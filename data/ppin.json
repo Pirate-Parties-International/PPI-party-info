@@ -16,7 +16,7 @@
         },
         "twitter": {
             "username": "pirates_in",
-            "unofficial": "PiratePIN",
+            "others": ["PiratePIN"],
             "hashtag": null
             
         },
