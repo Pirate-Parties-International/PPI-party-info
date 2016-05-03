@@ -3,7 +3,9 @@
     "country": "Switzerland",
     "partyName": {
         "en": "Pirate Party Switzerland",
-        "ch": "Parti Pirate Suisse && Piratenpartei Schweiz && Partito Pirata Svizzera"
+        "fr": "Parti Pirate Suisse",
+        "de": "Piratenpartei Schweiz",
+        "it": "Partito Pirata Svizzera"
     },
     "type": "national",
     "websites": {
