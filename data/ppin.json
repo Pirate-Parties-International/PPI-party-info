@@ -15,8 +15,10 @@
             "id": "367232660009292"
         },
         "twitter": {
-            "username": "PiratePIN",
+            "username": "pirates_in",
+            "others": ["PiratePIN"],
             "hashtag": null
+            
         },
         "irc": {
             "ircChannel": "#piratepin",
