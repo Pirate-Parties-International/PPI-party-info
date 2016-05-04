@@ -110,7 +110,7 @@ Address (optional) - Full string of the address. Can include newlines with aprop
 "headquarters": {
     "coordinates": {
         "longitude": "14.505751",
-        "latitude" : "46.056947 "
+        "latitude" : "46.056947"
     },
     "address": "Majaronova ulica 6, 1000 Ljubljana"
 }
