@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.2"
+   width="1337"
+   height="463"
+   viewBox="-0.327 -0.089 1337 463"
+   id="svg2834"
+   xml:space="preserve">
+	<defs
+   id="defs2836"><inkscape:path-effect
+   effect="spiro"
+   id="path-effect2869" /><inkscape:path-effect
+   effect="spiro"
+   id="path-effect2861" /><inkscape:path-effect
+   effect="spiro"
+   id="path-effect2857" />
+	</defs>
+	<g
+   id="layer1"
+   style="display:inline"><g
+   id="g2863" /><path
+   d="m 368.74063,404.13264 951.80567,-1.38725 0,-179.66878 -867.91872,-1.38725 c 1.10239,34.00323 -5.65117,68.23722 -19.58448,99.27426 -14.48601,32.2682 -36.72033,61.02615 -64.30247,83.16902"
+   inkscape:original-d="m 368.74063,404.13264 951.80567,-1.38725 0,-179.66878 -867.91872,-1.38725 c 0,0 -10.01369,73.92597 -19.58448,99.27426 -13.53516,35.84789 -64.30247,83.16902 -64.30247,83.16902 z"
+   inkscape:path-effect="#path-effect2869"
+   id="path2867"
+   style="fill:#ff6600;stroke:#000000;stroke-width:20;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" /><text
+   x="539.32465"
+   y="374.58752"
+   id="text3651"
+   xml:space="preserve"
+   style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:200%;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Miriam;-inkscape-font-specification:Miriam"><tspan
+     x="539.32465"
+     y="374.58752"
+     id="tspan3653"
+     style="font-size:170px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">PIRATA</tspan></text>
+
+
+<text
+   x="468.57501"
+   y="177.59837"
+   id="text3657"
+   xml:space="preserve"
+   style="font-size:36px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:200%;fill:#000000;fill-opacity:1;stroke:none;font-family:Miriam;-inkscape-font-specification:Miriam"><tspan
+     x="468.57501"
+     y="177.59837"
+     id="tspan3659"
+     style="font-size:170px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#000000;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans Bold">PARTIDO</tspan></text>
+
+
+<path
+   d="m 461.95346,229.9424 a 230.97673,231.67035 0 1 1 -461.95346,0 230.97673,231.67035 0 1 1 461.95346,0 z"
+   transform="matrix(0.94644289,0,0,0.95519903,9.1811088,12.470843)"
+   id="path3682"
+   style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:20;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" /></g><g
+   id="g2838">
+		<path
+   d="m 120.805,110.043 c 24.267,-7.07 126.586,6.86 105.678,105.837 -7.609,36.019 -49.357,53.566 -69.592,68.72 -47.901,35.873 -6.648,121.071 -6.648,121.071 0,0 -22.318,-66.267 27.382,-97.619 C 223.352,279.206 380.998,292.759 380.456,203.786 379.417,33.321 113.795,94.816 120.805,110.043 z"
+   id="path2840" />
+		<rect
+   width="20.208"
+   height="250.63"
+   x="141.205"
+   y="61.290001"
+   id="rect2842" /> 
+		
+	</g><g
+   id="layer2"
+   style="display:inline"><path
+     d="m 319.99999,203 -48.08344,-16.9287 -41.20469,30.01284 1.24155,-50.96132 -41.27686,-29.91351 48.85076,-14.56713 15.69418,-48.50041 28.94988,41.95834 50.9764,-0.0614 -30.95875,40.49881 L 319.99999,203 z"
+     transform="matrix(0.54031549,0,0,0.543946,149.76597,108.56166)"
+     id="path3680"
+     style="fill:#ffffff;fill-opacity:1;stroke:none" /></g>
+</svg>

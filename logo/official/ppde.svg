@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:ns1="http://ns.adobe.com/ImageReplacement/1.0/"
+   xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+   xmlns:x="http://ns.adobe.com/Extensibility/1.0/"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   width="700.60901"
+   height="306.51913"
+   id="svg2410"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="Logo Piratenpartei Deutschland 3D.svg"
+   sodipodi:docbase="D:\_kunden\piratenpartei\logovarianten"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape">
+  <metadata
+     id="metadata68">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="719"
+     inkscape:window-width="1024"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="1"
+     inkscape:cx="282.5"
+     inkscape:cy="151.5"
+     inkscape:window-x="1412"
+     inkscape:window-y="160"
+     inkscape:current-layer="svg2410"
+     showgrid="false" />
+  <defs
+     id="defs2412">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 37.846035 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="173.2536 : 37.846035 : 1"
+       inkscape:persp3d-origin="86.626801 : 25.23069 : 1"
+       id="perspective74" />
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient3951"
+       y2="173.0005"
+       x2="125.458"
+       y1="306.08249"
+       x1="125.458">
+      <stop
+         id="stop3953"
+         offset="0"
+         style="stop-color:#b9c5d1;stop-opacity:1;" />
+      <stop
+         id="stop3955"
+         offset="1"
+         style="stop-color:#e8ebf0;stop-opacity:1;" />
+      <a:midPointStop
+         offset="0"
+         style="stop-color:#BAC5CF" />
+      <a:midPointStop
+         offset="0.4494"
+         style="stop-color:#BAC5CF" />
+      <a:midPointStop
+         offset="1"
+         style="stop-color:#DDEBF7" />
+    </linearGradient>
+    <linearGradient
+       x1="125.458"
+       y1="306.08249"
+       x2="125.458"
+       y2="173.0005"
+       id="XMLID_1_"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         style="stop-color:#b9c5d1;stop-opacity:1;"
+         offset="0"
+         id="stop2194" />
+      <stop
+         style="stop-color:#e8ebf0;stop-opacity:1;"
+         offset="1"
+         id="stop2198" />
+      <a:midPointStop
+         style="stop-color:#BAC5CF"
+         offset="0" />
+      <a:midPointStop
+         style="stop-color:#BAC5CF"
+         offset="0.4494" />
+      <a:midPointStop
+         style="stop-color:#DDEBF7"
+         offset="1" />
+    </linearGradient>
+    <linearGradient
+       x1="125.458"
+       y1="306.08249"
+       x2="125.458"
+       y2="173.0005"
+       id="linearGradient5254"
+       xlink:href="#XMLID_1_"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.690484,0,0,0.568759,350.5161,267.5496)" />
+    <linearGradient
+       x1="127.5879"
+       y1="238.2876"
+       x2="127.5879"
+       y2="256.01221"
+       id="XMLID_4_"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.156702,0,0,1.156702,297.626,127.6626)">
+      <stop
+         style="stop-color:#ff7b00;stop-opacity:1"
+         offset="0"
+         id="stop2218" />
+      <stop
+         style="stop-color:#ffa947;stop-opacity:1"
+         offset="0.97189999"
+         id="stop2220" />
+      <stop
+         style="stop-color:#ff9f31;stop-opacity:1"
+         offset="1"
+         id="stop2222" />
+      <a:midPointStop
+         offset="0"
+         style="stop-color:#FF7B00" />
+      <a:midPointStop
+         offset="0.5"
+         style="stop-color:#FF7B00" />
+      <a:midPointStop
+         offset="0.9719"
+         style="stop-color:#FFA947" />
+      <a:midPointStop
+         offset="0.5"
+         style="stop-color:#FFA947" />
+      <a:midPointStop
+         offset="1"
+         style="stop-color:#FF9F31" />
+    </linearGradient>
+    <linearGradient
+       x1="77.543503"
+       y1="217.9409"
+       x2="77.543503"
+       y2="259.36081"
+       id="linearGradient7835"
+       xlink:href="#XMLID_5_"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.156702,0,0,1.156702,297.626,127.6626)" />
+    <linearGradient
+       x1="80.469704"
+       y1="223.7202"
+       x2="80.469704"
+       y2="254.0854"
+       id="XMLID_6_"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.156702,0,0,1.156702,297.626,127.6626)">
+      <stop
+         style="stop-color:black;stop-opacity:1"
+         offset="0"
+         id="stop2252" />
+      <stop
+         style="stop-color:black;stop-opacity:1"
+         offset="0.4091"
+         id="stop2254" />
+      <stop
+         style="stop-color:#4c4c4c;stop-opacity:1"
+         offset="0.9091"
+         id="stop2256" />
+      <stop
+         style="stop-color:#363636;stop-opacity:1"
+         offset="1"
+         id="stop2258" />
+      <a:midPointStop
+         offset="0"
+         style="stop-color:#000000" />
+      <a:midPointStop
+         offset="0.5"
+         style="stop-color:#000000" />
+      <a:midPointStop
+         offset="0.4091"
+         style="stop-color:#000000" />
+      <a:midPointStop
+         offset="0.5"
+         style="stop-color:#000000" />
+      <a:midPointStop
+         offset="0.9091"
+         style="stop-color:#4C4C4C" />
+      <a:midPointStop
+         offset="0.5"
+         style="stop-color:#4C4C4C" />
+      <a:midPointStop
+         offset="1"
+         style="stop-color:#363636" />
+    </linearGradient>
+    <linearGradient
+       x1="78.3442"
+       y1="217.9409"
+       x2="78.3442"
+       y2="230.98489"
+       id="XMLID_8_"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.156702,0,0,1.156702,297.626,127.6626)">
+      <stop
+         style="stop-color:black;stop-opacity:1"
+         offset="0"
+         id="stop2288" />
+      <stop
+         style="stop-color:#636363;stop-opacity:1"
+         offset="1"
+         id="stop2290" />
+      <a:midPointStop
+         offset="0"
+         style="stop-color:#000000" />
+      <a:midPointStop
+         offset="0.5"
+         style="stop-color:#000000" />
+      <a:midPointStop
+         offset="1"
+         style="stop-color:#696969" />
+    </linearGradient>
+    <linearGradient
+       x1="121.3486"
+       y1="223.7202"
+       x2="121.3486"
+       y2="231.7661"
+       id="XMLID_10_"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.935115,0,0,0.935115,7.14167,-28.55897)">
+      <stop
+         style="stop-color:#545454;stop-opacity:1"
+         offset="0"
+         id="stop2342" />
+      <stop
+         style="stop-color:#666;stop-opacity:1"
+         offset="0.34862384"
+         id="stop2344" />
+      <stop
+         style="stop-color:#7d7d7d;stop-opacity:1"
+         offset="1"
+         id="stop2346" />
+      <a:midPointStop
+         offset="0"
+         style="stop-color:#171717" />
+      <a:midPointStop
+         offset="0.5"
+         style="stop-color:#171717" />
+      <a:midPointStop
+         offset="0.9034"
+         style="stop-color:#636363" />
+      <a:midPointStop
+         offset="0.5"
+         style="stop-color:#636363" />
+      <a:midPointStop
+         offset="1"
+         style="stop-color:#5C5C5C" />
+    </linearGradient>
+    <linearGradient
+       x1="121.3486"
+       y1="223.7202"
+       x2="121.3486"
+       y2="231.7661"
+       id="linearGradient14383"
+       xlink:href="#XMLID_10_"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.877218,0,0,0.877218,291.7704,136.1982)"
+       spreadMethod="reflect" />
+    <linearGradient
+       x1="77.543503"
+       y1="217.9409"
+       x2="77.543503"
+       y2="259.36081"
+       id="XMLID_5_"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.935115,0,0,0.935115,-293.5855,-9.599522)">
+      <stop
+         style="stop-color:black;stop-opacity:1"
+         offset="0"
+         id="stop2243" />
+      <stop
+         style="stop-color:black;stop-opacity:1"
+         offset="0.51139998"
+         id="stop2245" />
+      <stop
+         style="stop-color:#454545;stop-opacity:1"
+         offset="1"
+         id="stop2247" />
+      <a:midPointStop
+         offset="0"
+         style="stop-color:#000000" />
+      <a:midPointStop
+         offset="0.5"
+         style="stop-color:#000000" />
+      <a:midPointStop
+         offset="0.5114"
+         style="stop-color:#000000" />
+      <a:midPointStop
+         offset="0.5"
+         style="stop-color:#000000" />
+      <a:midPointStop
+         offset="1"
+         style="stop-color:#454545" />
+    </linearGradient>
+    <linearGradient
+       x1="77.543503"
+       y1="217.9409"
+       x2="77.543503"
+       y2="259.36081"
+       id="linearGradient7833"
+       xlink:href="#XMLID_5_"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.156702,0,0,1.156702,297.626,127.6626)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_5_"
+       id="linearGradient2131"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.6640852,0,0,4.6640852,-213.92047,-962.16798)"
+       x1="77.543503"
+       y1="217.9409"
+       x2="77.543503"
+       y2="259.36081" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_10_"
+       id="linearGradient2134"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.5371423,0,0,3.5371423,-237.53158,-925.73438)"
+       spreadMethod="reflect"
+       x1="121.3486"
+       y1="223.7202"
+       x2="121.3486"
+       y2="231.7661" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_8_"
+       id="linearGradient2137"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.6640852,0,0,4.6640852,-213.92047,-962.16798)"
+       x1="78.3442"
+       y1="217.9409"
+       x2="78.3442"
+       y2="230.98489" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_6_"
+       id="linearGradient2153"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.6640852,0,0,4.6640852,-213.92047,-962.16798)"
+       x1="80.469704"
+       y1="223.7202"
+       x2="80.469704"
+       y2="254.0854" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_5_"
+       id="linearGradient2156"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.6640852,0,0,4.6640852,-213.92047,-962.16798)"
+       x1="77.543503"
+       y1="217.9409"
+       x2="77.543503"
+       y2="259.36081" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_4_"
+       id="linearGradient2167"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(4.6640852,0,0,4.6640852,-213.92047,-960.15188)"
+       x1="127.5879"
+       y1="238.2876"
+       x2="127.5879"
+       y2="256.01221" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_1_"
+       id="linearGradient3967"
+       x1="4.9999999e-05"
+       y1="37.846054"
+       x2="173.25365"
+       y2="37.846054"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0,-1.7691922,9.2560462,0,-2.3e-4,306.51924)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#XMLID_10_"
+       id="linearGradient1967"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.5371423,0,0,3.5371423,-237.53158,-927.75048)"
+       spreadMethod="reflect"
+       x1="121.3486"
+       y1="223.7202"
+       x2="121.3486"
+       y2="231.7661" />
+  </defs>
+  <path
+     id="path2200"
+     style="opacity:1;fill:url(#linearGradient3967);fill-opacity:1;fill-rule:nonzero"
+     d="M 0,306.51914 L 0,0 L 700.60903,0 L 700.60903,306.51914 L 0,306.51914 z"
+     inkscape:export-filename="D:\_kunden\piratenpartei\logovarianten\path2214.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <g
+     id="g2205"
+     transform="matrix(4.6640852,0,0,4.6640852,-213.92007,-960.15188)"
+     inkscape:export-filename="D:\_kunden\piratenpartei\logovarianten\path2214.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <g
+       id="XMLID_3_"
+       style="opacity:0.33999999"
+       transform="matrix(0.24,0,0,0.24,55.3872,216.4951)">
+      <foreignObject
+         id="foreignObject2208"
+         opacity="0.34"
+         height="191"
+         width="530"
+         y="0"
+         x="0"
+         requiredExtensions="http://ns.adobe.com/ImageReplacement/1.0/"
+         overflow="visible">
+        <ns1:imageReplacement
+           opacity="0.34"
+           refHeight="191"
+           refWidth="530"
+           valign="middle"
+           align="center"
+           placementMethod="ratio"
+           height="191"
+           width="530"
+           y="0"
+           x="0" />
+        <x:targetRef
+           xlink:href="#XMLID_2_" />
+      </foreignObject>
+      <image
+         id="XMLID_2_"
+         style="opacity:0.33999999"
+         height="191"
+         width="530"
+         xlink:href="data:;base64,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 cQ7n3RU0QAAAAABJRU5ErkJggg==" />
+    </g>
+    <g
+       id="g2211">
+      <path
+         id="path2213"
+         style="fill:#9e9eb5;fill-opacity:1"
+         d="M 88.995,221.767 L 180.641,221.767 L 180.641,257.012 L 89.84,257.012 C 86.591,259.13 82.711,260.361 78.544,260.361 C 67.106,260.361 57.833,251.09 57.833,239.651 C 57.833,228.212 67.105,218.941 78.544,218.941 C 82.355,218.941 85.927,219.97 88.995,221.767 z" />
+    </g>
+  </g>
+  <path
+     id="path2215"
+     style="fill:#ffffff;fill-rule:evenodd"
+     d="M 138.37655,65.491363 L 623.9403,65.491363 L 623.9403,233.90927 L 138.37655,233.90927 L 138.37655,65.491363 z"
+     sodipodi:nodetypes="ccccc"
+     inkscape:export-filename="D:\_kunden\piratenpartei\logovarianten\path2214.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <path
+     id="path2224"
+     style="fill:url(#linearGradient2167)"
+     d="M 138.37655,151.24301 L 623.9403,151.24301 L 623.9403,233.91391 L 138.37655,233.91391 L 138.37655,151.24301 z"
+     inkscape:export-filename="D:\_kunden\piratenpartei\logovarianten\path2214.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <path
+     id="path2226"
+     style="fill:#ffffff;fill-rule:evenodd"
+     d="M 55.12264,150.91994 C 55.12264,99.75965 96.59567,58.291297 147.75132,58.291297 C 198.90702,58.291297 240.37537,99.764327 240.37537,150.91994 C 240.37537,202.07564 198.90702,243.54867 147.75132,243.54867 C 96.59567,243.54867 55.12264,202.08028 55.12264,150.91994 z"
+     inkscape:export-filename="D:\_kunden\piratenpartei\logovarianten\path2214.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <path
+     id="path2228"
+     style="fill-rule:evenodd"
+     d="M 264.24148,84.663232 L 290.83144,84.663232 C 296.61954,84.663232 300.95249,86.043787 303.8209,88.79566 C 306.71724,91.552051 308.1678,95.469924 308.1678,100.55376 C 308.1678,105.77759 306.58664,109.86328 303.4338,112.80632 C 300.29951,115.74933 295.51418,117.21855 289.06375,117.21855 L 280.30454,117.21855 L 280.30454,136.42526 L 264.24148,136.42526 L 264.24148,84.663232 L 264.24148,84.663232 z M 280.30454,106.73371 L 284.22709,106.73371 C 287.31005,106.73371 289.47419,106.20666 290.72414,105.1432 C 291.97409,104.06579 292.59445,102.68527 292.59445,101.01085 C 292.59445,99.387717 292.05345,98.007162 290.97136,96.878502 C 289.88927,95.74976 287.85106,95.18545 284.85669,95.18545 L 280.29995,95.18545 L 280.29995,106.73371 L 280.30454,106.73371 z"
+     inkscape:export-filename="D:\_kunden\piratenpartei\logovarianten\path2214.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <path
+     id="path2230"
+     style="fill-rule:evenodd"
+     d="M 313.54078,84.663232 L 329.57126,84.663232 L 329.57126,136.42989 L 313.54078,136.42989 L 313.54078,84.663232 z"
+     inkscape:export-filename="D:\_kunden\piratenpartei\logovarianten\path2214.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <path
+     id="path2232"
+     style="fill-rule:evenodd"
+     d="M 340.51783,136.42989 L 340.51783,84.663232 L 367.17779,84.663232 C 372.1217,84.663232 375.89958,85.087665 378.51613,85.931892 C 381.128,86.780716 383.23621,88.361833 384.83133,90.665969 C 386.43107,92.946677 387.23332,95.740406 387.23332,99.033243 C 387.23332,101.90637 386.62232,104.38768 385.39563,106.48653 C 384.16899,108.55736 382.48997,110.24106 380.34914,111.53303 C 378.98254,112.35859 377.11224,113.03947 374.73354,113.58055 C 376.64115,114.21954 378.03109,114.84917 378.90323,115.48816 C 379.49097,115.91255 380.33979,116.81746 381.44518,118.20729 C 382.57393,119.59716 383.32477,120.66534 383.70262,121.41622 L 391.43567,136.42526 L 373.35766,136.42526 L 364.81305,120.60461 C 363.731,118.55713 362.76553,117.22323 361.9167,116.61694 C 360.76461,115.81469 359.4587,115.41356 357.99883,115.41356 L 356.58557,115.41356 L 356.58557,136.42526 L 340.51783,136.42526 L 340.51783,136.42989 z M 356.58557,105.63763 L 363.3252,105.63763 C 364.05281,105.63763 365.46599,105.39977 367.56021,104.93336 C 368.62363,104.71876 369.48176,104.18244 370.13946,103.30559 C 370.82038,102.43338 371.16558,101.43992 371.16558,100.30194 C 371.16558,98.636835 370.63849,97.349587 369.57511,96.454029 C 368.51637,95.563189 366.52945,95.115451 363.60971,95.115451 L 356.58557,95.115451 L 356.58557,105.63763 z"
+     inkscape:export-filename="D:\_kunden\piratenpartei\logovarianten\path2214.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <path
+     id="path2234"
+     style="fill-rule:evenodd"
+     d="M 428.38917,127.88528 L 410.17121,127.88528 L 407.66672,136.42989 L 391.31438,136.42989 L 410.77294,84.663232 L 428.212,84.663232 L 447.67048,136.42989 L 430.93117,136.42989 L 428.38917,127.88528 z M 425.03569,116.68682 L 419.31292,98.081759 L 413.6274,116.68682 L 425.03569,116.68682 z"
+     inkscape:export-filename="D:\_kunden\piratenpartei\logovarianten\path2214.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <path
+     id="path2236"
+     style="fill-rule:evenodd"
+     d="M 439.92812,84.663232 L 488.55118,84.663232 L 488.55118,97.442853 L 472.24093,97.442853 L 472.24093,136.42526 L 456.24307,136.42526 L 456.24307,97.442853 L 439.92812,97.442853 L 439.92812,84.663232 z"
+     inkscape:export-filename="D:\_kunden\piratenpartei\logovarianten\path2214.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <path
+     id="path2238"
+     style="fill-rule:evenodd"
+     d="M 494.17133,84.663232 L 537.03431,84.663232 L 537.03431,95.71714 L 510.19723,95.71714 L 510.19723,103.94458 L 535.08941,103.94458 L 535.08941,114.50405 L 510.19723,114.50405 L 510.19723,124.70906 L 537.80863,124.70906 L 537.80863,136.43461 L 494.17133,136.43461 L 494.17133,84.663232 z"
+     inkscape:export-filename="D:\_kunden\piratenpartei\logovarianten\path2214.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <path
+     id="path2240"
+     style="fill-rule:evenodd"
+     d="M 546.52113,84.663232 L 561.45554,84.663232 L 580.94668,113.30072 L 580.94668,84.663232 L 596.02104,84.663232 L 596.02104,136.42989 L 580.94668,136.42989 L 561.56275,108.00233 L 561.56275,136.42989 L 546.52113,136.42989 L 546.52113,84.663232 z"
+     inkscape:export-filename="D:\_kunden\piratenpartei\logovarianten\path2214.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <path
+     id="path2249"
+     style="fill:url(#linearGradient2156)"
+     d="M 147.75132,54.326771 C 201.09914,54.326771 244.3445,97.567529 244.3445,150.91994 C 244.3445,204.27244 201.09914,247.51307 147.75132,247.51307 C 94.40355,247.51307 51.15347,204.27244 51.15347,150.91994 C 51.15347,97.567529 94.39891,54.326771 147.75132,54.326771 z M 147.75132,62.251065 C 98.77847,62.251065 59.08245,101.95181 59.08245,150.91994 C 59.08245,199.88824 98.77847,239.58418 147.75132,239.58418 C 196.71958,239.58418 236.4156,199.88824 236.4156,150.91994 C 236.4156,101.95181 196.71958,62.251065 147.75132,62.251065 z"
+     inkscape:export-filename="D:\_kunden\piratenpartei\logovarianten\path2214.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <path
+     id="path2260"
+     style="fill:url(#linearGradient2153)"
+     d="M 124.84601,102.28294 L 124.84601,172.70591 C 125.93274,171.90369 127.12208,171.1481 128.41873,170.4485 C 146.33815,160.68193 153.05906,151.85748 152.78391,135.65442 C 152.40609,114.12502 138.57708,105.24465 124.84601,102.28294 z M 116.62789,81.280557 L 124.84601,81.280557 L 124.84601,94.56852 C 132.14064,92.922081 141.50149,91.877371 153.36221,91.877371 C 185.08269,91.877371 209.08408,102.01233 214.53634,130.60788 C 219.61553,157.22115 204.07948,165.22004 181.85513,171.51656 C 164.29483,176.48382 133.64711,177.70583 125.42904,187.97611 C 117.21091,198.24176 116.85644,211.26855 119.86948,222.91012 C 115.62512,212.23867 113.3957,205.27521 113.3957,196.77258 C 113.3957,192.16447 114.22593,187.0666 116.62326,182.31853 L 116.62326,101.15887 C 113.56828,100.96295 110.67189,101.01428 108.09263,101.22887 C 110.26608,99.717674 113.06921,98.253128 116.62326,96.947211 L 116.62326,81.280557 L 116.62789,81.280557 z"
+     inkscape:export-filename="D:\_kunden\piratenpartei\logovarianten\path2214.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <g
+     id="g2273"
+     transform="matrix(4.6640852,0,0,4.6640852,-213.92007,-960.15188)"
+     inkscape:export-filename="D:\_kunden\piratenpartei\logovarianten\path2214.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90">
+    <path
+       id="path2275"
+       style="fill:#ffffff;fill-rule:evenodd"
+       d="M 103.079,241.417 L 108.929,241.417 C 110.203,241.417 111.156,241.715 111.788,242.31 C 112.425,242.905 112.744,243.751 112.744,244.85 C 112.744,245.978 112.396,246.861 111.703,247.496 C 111.014,248.132 109.959,248.449 108.541,248.449 L 106.615,248.449 L 106.615,252.598 L 103.08,252.598 L 103.08,241.417 L 103.079,241.417 z M 106.614,246.184 L 107.476,246.184 C 108.155,246.184 108.631,246.069 108.905,245.84 C 109.18,245.607 109.317,245.309 109.318,244.947 C 109.318,244.596 109.199,244.3 108.961,244.054 C 108.723,243.81 108.274,243.689 107.616,243.689 L 106.615,243.689 L 106.615,246.184 L 106.614,246.184 z" />
+    <path
+       id="path2277"
+       style="fill:#ffffff;fill-rule:evenodd"
+       d="M 121.943,250.752 L 117.934,250.752 L 117.382,252.598 L 113.785,252.598 L 118.065,241.416 L 121.902,241.416 L 126.183,252.598 L 122.501,252.598 L 121.943,250.752 z M 121.206,248.334 L 119.946,244.314 L 118.696,248.334 L 121.206,248.334 z" />
+    <path
+       id="path2279"
+       style="fill:#ffffff;fill-rule:evenodd"
+       d="M 129.221,252.598 L 129.221,241.416 L 135.086,241.416 C 136.174,241.416 137.005,241.508 137.58,241.69 C 138.155,241.874 138.618,242.214 138.971,242.712 C 139.323,243.205 139.499,243.808 139.499,244.52 C 139.499,245.14 139.364,245.677 139.095,246.129 C 138.825,246.576 138.455,246.94 137.984,247.22 C 137.684,247.398 137.272,247.545 136.75,247.661 C 137.17,247.799 137.475,247.936 137.667,248.073 C 137.796,248.165 137.982,248.361 138.227,248.661 C 138.475,248.961 138.64,249.192 138.723,249.354 L 140.425,252.596 L 136.446,252.596 L 134.567,249.179 C 134.329,248.737 134.116,248.45 133.929,248.317 C 133.675,248.145 133.388,248.058 133.068,248.058 L 132.756,248.058 L 132.756,252.596 L 129.221,252.596 L 129.221,252.598 z M 132.756,245.947 L 134.239,245.947 C 134.399,245.947 134.711,245.896 135.172,245.795 C 135.405,245.749 135.594,245.633 135.739,245.444 C 135.888,245.256 135.964,245.04 135.964,244.796 C 135.964,244.436 135.848,244.158 135.614,243.965 C 135.382,243.772 134.944,243.675 134.302,243.675 L 132.756,243.675 L 132.756,245.947 z" />
+    <path
+       id="path2281"
+       style="fill:#ffffff;fill-rule:evenodd"
+       d="M 141.833,241.417 L 152.53,241.417 L 152.53,244.179 L 148.941,244.179 L 148.941,252.599 L 145.421,252.599 L 145.421,244.179 L 141.832,244.179 L 141.832,241.417 L 141.833,241.417 z" />
+    <path
+       id="path2283"
+       style="fill:#ffffff;fill-rule:evenodd"
+       d="M 155.661,241.417 L 165.092,241.417 L 165.092,243.805 L 159.188,243.805 L 159.188,245.581 L 164.665,245.581 L 164.665,247.862 L 159.188,247.862 L 159.188,250.066 L 165.263,250.066 L 165.263,252.598 L 155.661,252.598 L 155.661,241.417 z" />
+    <path
+       id="path2285"
+       style="fill:#ffffff;fill-rule:evenodd"
+       d="M 169.479,241.417 L 173.006,241.417 L 173.006,252.599 L 169.479,252.599 L 169.479,241.417 z" />
+  </g>
+  <path
+     id="path2292"
+     style="fill:url(#linearGradient2137)"
+     d="M 237.50697,115.1651 L 228.66853,114.62873 C 214.79754,83.752553 183.78601,62.255743 147.74665,62.255743 C 116.28277,62.255743 88.64339,78.650012 72.90682,103.35571 L 65.45357,100.31005 C 82.45884,72.721912 112.95731,54.336085 147.74665,54.336085 C 188.46412,54.326771 223.2955,79.512868 237.50697,115.1651 z"
+     inkscape:export-filename="D:\_kunden\piratenpartei\logovarianten\path2214.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <path
+     style="fill:url(#linearGradient1967);fill-opacity:1;fill-rule:evenodd"
+     d="M 116.66677,81.237331 L 116.66677,96.840438 C 113.11272,98.146355 110.21121,99.702835 108.03776,101.21395 C 110.61701,100.99944 113.61179,100.89996 116.66677,101.09581 L 116.66677,108.89736 L 124.82291,110.31586 L 124.82291,102.2779 C 132.46681,103.92869 140.14553,107.37745 145.50888,113.862 C 145.52803,113.88511 145.48981,113.957 145.50888,113.98019 L 185.60898,116.82339 L 208.2759,114.33482 C 198.06154,98.066477 178.16222,91.875758 153.42862,91.875758 C 141.56782,91.875758 132.11757,92.948128 124.82291,94.594527 L 124.82291,81.237331 L 116.66677,81.237331 z"
+     id="path1954"
+     inkscape:export-filename="D:\_kunden\piratenpartei\logovarianten\path2214.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <path
+     id="path1952"
+     style="fill:url(#linearGradient2134);fill-opacity:1;fill-rule:evenodd"
+     d="M 264.30527,84.553636 L 264.30527,111.97734 C 270.71071,112.48225 286.93929,113.77672 300.47612,114.93248 C 301.60551,114.37055 302.68546,113.73684 303.54945,112.92298 C 306.70229,109.97989 308.15937,105.73525 308.15937,100.51138 C 308.15945,95.427625 306.68224,91.565518 303.78586,88.809128 C 300.91749,86.057294 296.57139,84.553636 290.78329,84.553636 L 264.30527,84.553636 z M 313.59687,84.553636 L 313.59687,115.64166 L 329.55461,114.93248 L 329.55461,84.553636 L 313.59687,84.553636 z M 340.54771,84.553636 L 340.54771,114.81429 L 356.50541,115.40534 L 358.04205,115.40534 C 359.2641,115.40534 360.3445,115.66832 361.35183,116.23275 L 376.36393,114.22321 C 375.89894,114.0199 375.4264,113.83289 374.82729,113.6322 C 377.20594,113.09116 378.89818,112.44822 380.26471,111.6227 C 382.40553,110.33078 384.23911,108.49249 385.46571,106.42169 C 386.69244,104.3228 387.12054,101.84786 387.12054,98.974736 C 387.12054,95.681979 386.4745,92.981032 384.87475,90.700364 C 383.27956,88.396309 381.22168,86.821078 378.60984,85.972133 C 375.99328,85.127947 372.08783,84.553636 367.14392,84.553636 L 340.54771,84.553636 z M 410.76173,84.553636 L 400.83237,111.0317 L 401.06882,111.0317 L 415.13524,111.74093 L 419.3907,98.029058 L 423.64607,112.09556 L 424.3553,112.09556 L 426.9558,111.85911 L 428.13793,111.97734 L 438.30353,111.74093 L 428.25607,84.553636 L 410.76173,84.553636 z M 439.9584,84.553636 L 439.9584,97.438094 L 456.2707,97.438094 L 456.2707,111.74093 L 472.22852,114.10502 L 472.22852,97.438094 L 488.65904,97.438094 L 488.65904,84.553636 L 439.9584,84.553636 z M 494.0965,84.553636 L 494.0965,115.9963 L 510.17242,116.4692 L 510.17242,114.45966 L 535.11369,114.45966 L 535.11369,103.93933 L 510.17242,103.93933 L 510.17242,95.664963 L 537.00504,95.664963 L 537.00504,84.553636 L 494.0965,84.553636 z M 546.46146,84.553636 L 546.46146,114.93248 L 559.70051,114.10502 L 561.59178,113.86861 L 561.59178,108.07656 L 565.13793,113.3958 L 579.7954,111.50452 L 561.4736,84.553636 L 546.46146,84.553636 z M 580.97749,84.553636 L 580.87486,111.38633 L 595.98951,109.37679 L 595.98951,84.553636 L 580.97749,84.553636 z M 356.50541,95.074 L 363.5977,95.074 C 366.51747,95.074 368.44927,95.483352 369.50809,96.374191 C 370.57147,97.269669 371.16292,98.728205 371.16292,100.39319 C 371.16292,101.53129 370.77998,102.3579 370.09898,103.23007 C 369.4414,104.10695 368.6802,104.67054 367.61674,104.88497 C 365.52252,105.35146 363.97072,105.5942 363.2431,105.59424 L 356.50541,105.59424 L 356.50541,95.074 z M 280.38124,95.192184 L 284.87302,95.192184 C 287.86735,95.192184 289.93761,95.71835 291.01966,96.84709 C 292.10171,97.975711 292.55631,99.479329 292.55631,101.10246 C 292.55631,102.77688 291.91506,104.04405 290.66511,105.12142 C 289.41512,106.18484 287.36489,106.77629 284.28197,106.77629 L 280.38124,106.77629 L 280.38124,95.192184 z"
+     inkscape:export-filename="D:\_kunden\piratenpartei\logovarianten\path2214.png"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+  <path
+     id="path2214"
+     style="fill:url(#linearGradient2131)"
+     d="M 147.75132,54.326771 C 201.09914,54.326771 244.3445,97.567529 244.3445,150.91994 C 244.3445,204.27244 201.09914,247.51307 147.75132,247.51307 C 94.40355,247.51307 51.15347,204.27244 51.15347,150.91994 C 51.15347,97.567529 94.39891,54.326771 147.75132,54.326771 z M 147.75132,62.251065 C 98.77847,62.251065 59.08245,101.95181 59.08245,150.91994 C 59.08245,199.88824 98.77847,239.58418 147.75132,239.58418 C 196.71958,239.58418 236.4156,199.88824 236.4156,150.91994 C 236.4156,101.95181 196.71958,62.251065 147.75132,62.251065 z"
+     inkscape:export-xdpi="90"
+     inkscape:export-ydpi="90" />
+</svg>
