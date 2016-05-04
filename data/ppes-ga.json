@@ -1,0 +1,26 @@
+{
+    "countryCode": "es",
+    "country": "Spain",
+    "partyName": {
+      "en": "Pirate Party Galicia",
+      "gl": "Piratas de Galicia"
+    },
+    "type": "regional",
+    "region": "Galicia",
+    "parentorganisation": false,
+    "websites": {
+        "official": null
+    },
+    "socialNetworks": {
+        "dfsn": {
+          "id": "piratasdegalicia@poddery.com",
+          "type": "diaspora"
+        }
+    },
+    "contact": {
+        "general": {
+            "email": null
+        }
+    },
+    "defunct": ""
+}
