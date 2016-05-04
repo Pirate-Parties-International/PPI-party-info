@@ -3,10 +3,11 @@
     "country": "Spain",
     "partyName": {
       "en": "Pirate Party Galicia",
-      "gl": null
+      "gl": "Piratas de Galicia"
     },
     "type": "regional",
     "region": "Galicia",
+    "parentorganisation": false,
     "websites": {
         "official": null
     },
