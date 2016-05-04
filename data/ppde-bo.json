@@ -1,4 +1,5 @@
 {
+    "partyCode": "PPDE-BO",
     "countryCode": "de",
     "country": "Germany",
     "partyName": {
@@ -7,6 +8,7 @@
     },
     "type": "regional",
     "region": "Bonn",
+    "parentorganisation": "PPDE",
     "websites": {
         "official": null
     },
