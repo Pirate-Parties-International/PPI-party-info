@@ -6,6 +6,7 @@
         "de": "Piraten Partei Tirol"
     },
     "type": "regional",
+    "region": "Tyrol",
     "parentorganisation": false,
     "websites": {
         "official": "http:\/\/piratenpartei-tirol.org\/",

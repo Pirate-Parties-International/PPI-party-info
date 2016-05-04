@@ -6,6 +6,7 @@
         "de": "Piratenpartei Wien"
     },
     "type": "regional",
+    "region": "Vienna",
     "parentorganisation": "PPAT",
     "websites": {
         "official": "http:\/\/wien.piratenpartei.at\/"

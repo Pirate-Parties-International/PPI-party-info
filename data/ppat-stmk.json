@@ -6,6 +6,7 @@
         "de": "Piratenpartei Steiermark"
     },
     "type": "regional",
+    "region": "Styria",
     "parentorganisation": "PPAT",
     "websites": {
         "official": "http:\/\/steiermark.piratenpartei.at\/"
