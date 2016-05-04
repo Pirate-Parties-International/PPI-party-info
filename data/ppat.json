@@ -33,7 +33,8 @@
         "irc": {
             "ircChannel": "#piratenpartei.at",
             "ircServer": "irc.freenode.net"
-        }
+        },
+        "github": "PPOE"
     },
     "membership": {
         "ppi": "full",
