@@ -17,12 +17,21 @@ class VerifyCommand extends Command
         $this
             ->setName('info:verify')
             ->setDescription('Verifies integrity of the data')
+            ->addOption(
+                'error-codes-only',
+                null,
+                InputOption::VALUE_NONE,
+                'If set, the task will only output an error code.'
+            )
         ;
     }
 
     protected function execute(InputInterface $input, OutputInterface $output)
     {
-        // $output->writeln('Running data verification.');
+        $this->output = $output;
+        $this->noOutput = $input->getOption('error-codes-only');
+
+        $this->log('Running data verification.');
 
         $rootPath = __DIR__ . '/../../..';
 
@@ -36,14 +45,14 @@ class VerifyCommand extends Command
         foreach ($dataFiles as $filename) {
             if (preg_match('/.+\.json$/i', $filename) === 1) {
                 $numFiles++;
-                // $output->writeln(sprintf('#%s   Testing %s', $numFiles, $filename));
+                $this->log(sprintf('#%s  Testing %s', $numFiles, $filename));
 
                 $json = file_get_contents(sprintf('%s/data/%s', $rootPath, $filename));
                 
                 // Test syntax
                 if (($emsg = Verify::verifySyntax($json)) !== true) {
                     $numErrors++;
-                    $output->writeln(sprintf(PHP_EOL.'  <error>[%s] Invalid JSON syntax:'.PHP_EOL.' %s</error>' . PHP_EOL, $filename, $emsg));
+                    $this->log(sprintf(PHP_EOL.'  <error>[%s] Invalid JSON syntax:'.PHP_EOL.' %s</error>' . PHP_EOL, $filename, $emsg));
                     continue;
                 }
 
@@ -56,7 +65,7 @@ class VerifyCommand extends Command
                     $result = Verify::$test($ppData);
                     if ($result !== true) {
                         $numErrors++;
-                        $output->writeln(sprintf(PHP_EOL.'  <error>[%s] %s</error>' . PHP_EOL, $filename, $result)); 
+                        $this->log(sprintf(PHP_EOL.'  <error>[%s] %s</error>' . PHP_EOL, $filename, $result)); 
                     }
                 }
 
@@ -64,12 +73,24 @@ class VerifyCommand extends Command
         }
 
         if ($numErrors !== 0) {
-            $output->writeln(sprintf(PHP_EOL.'  <error>%s errors found!</error>', $numErrors));
+            if ($this->noOutput) {
+                exit(100);
+            }
+            $this->log(sprintf(PHP_EOL.'  <error>%s errors found!</error>', $numErrors));
 
         } else {
-            // $output->writeln(PHP_EOL . '<info>No errors found!</info>' );
+            if ($this->noOutput) {
+                exit(0);
+            }
+            $this->log(PHP_EOL . '<info>No errors found!</info>' );
         }
 
+    }
+
+    public function log($msg) {
+        if (!$this->noOutput) {
+            $this->output->writeln($msg);
+        }
     }
 
     

@@ -10,7 +10,7 @@ use Seld\JsonLint\Parsing\Exception;
 */
 class Verify
 {
-	public function verifySyntax($string) {
+	public static function verifySyntax($string) {
 		$parser = new JsonParser();
 
 		try {
@@ -21,7 +21,7 @@ class Verify
         return true;
 	}
 
-	public function verifyCountry($json) {
+	public static function verifyCountry($json) {
 		if (empty($json['countryCode'])) {
 			return self::requiredMsg('countryCode');
 		}
@@ -33,7 +33,7 @@ class Verify
 		return true;
 	}
 
-	public function verifyPartyName($json) {
+	public static function verifyPartyName($json) {
 		if (empty($json['partyName'])) {
 			return self::requiredMsg('partyName');
 		}
@@ -51,7 +51,7 @@ class Verify
 		return true;
 	}
 
-	public function verifyType($json) {
+	public static function verifyType($json) {
 		if (empty($json['type'])) {
 			return self::requiredMsg('type');
 		}
@@ -73,7 +73,7 @@ class Verify
 		return true;            
 	}
 
-	public function verifyPartyCode($json) {
+	public static function verifyPartyCode($json) {
 		if (empty($json['partyCode'])) {
 			return self::requiredMsg('partyCode');
 		}
@@ -95,7 +95,7 @@ class Verify
         return true;
 	}
 
-	public function verifyWebsite($json) {
+	public static function verifyWebsite($json) {
 		if (empty($json['websites'])) {
 			return self::requiredMsg('websites');
 		}
@@ -117,7 +117,7 @@ class Verify
 	// Not required
 	//
 
-	public function verifyParentOrg($json) {
+	public static function verifyParentOrg($json) {
 		if (!empty($json['parentorganisation'])) {
 			if (preg_match('/PP[A-Z]{2,3}/', $json['parentorganisation']) !== 1) {
                 return "Parent organisation should be a national party.";
@@ -126,7 +126,7 @@ class Verify
 		return true;		
 	}
 
-	public function verifyHeadquarters($json) {
+	public static function verifyHeadquarters($json) {
 		if (!empty($json['headquarters'])) {
 			if (empty($json['headquarters']['coordinates'])) {
 				return "Field 'headquarters' requires subfield 'coordinates'.";
@@ -136,7 +136,7 @@ class Verify
 		return true;
 	}
 
-	public function verifySocialNetworks($json) {
+	public static function verifySocialNetworks($json) {
 		if (empty($json['socialNetworks'])) {
 			return true;
 		}
@@ -157,7 +157,7 @@ class Verify
 		return true;
 	}
 
-	public function verifyMembership($json) {
+	public static function verifyMembership($json) {
 		if (empty($json['membership'])) {
 			return true;
 		}
@@ -179,11 +179,11 @@ class Verify
 		return true;
 	}
 
-	public function verifyContact($json) {
+	public static function verifyContact($json) {
 		return true;
 	}
 
-	public function verifyDefunct($json) {
+	public static function verifyDefunct($json) {
 		if (empty($json['defunct'])) {
 			return true;
 		}
@@ -201,7 +201,7 @@ class Verify
 	// 
 	// 
 
-	private function requiredMsg($fieldName) {
+	private static function requiredMsg($fieldName) {
 		return sprintf("Field '%s' is required.", $fieldName);
 	}
 
