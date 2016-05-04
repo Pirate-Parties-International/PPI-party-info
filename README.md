@@ -1,5 +1,7 @@
 # Pirate Party Info
 
+[![Build Status](https://travis-ci.org/Pirate-Parties-International/PPI-party-info.svg?branch=master)](https://travis-ci.org/Pirate-Parties-International/PPI-party-info)
+
 Central repository for basic information about Pirate Parties around the world.
 
 The data is publicly accessible at http://api.piratetimes.net
