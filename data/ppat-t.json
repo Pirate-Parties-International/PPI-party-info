@@ -5,7 +5,8 @@
         "en": "Pirate Party Tyrol",
         "de": "Piraten Partei Tirol"
     },
-    "type": "national",
+    "type": "regional",
+    "parentorganisation": false,
     "websites": {
         "official": "http:\/\/piratenpartei-tirol.org\/",
         "wiki": "http:\/\/wiki.piratenpartei-tirol.org\/",
@@ -23,7 +24,7 @@
         "youtube": "UCPeTkbEhXCAsxe5kWouKgyg"
     },
     "membership": {
-        "ppi": false,
+        "ppi": "observer",
         "ppeu": false
     },
     "partyCode": "PPAT-T"
