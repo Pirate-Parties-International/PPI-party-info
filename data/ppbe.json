@@ -3,7 +3,9 @@
     "country": "Belgium",
     "partyName": {
         "en": "Pirate Party Belgium",
-        "be": "Parti Pirate && Piraten Partij && Piraten Partei"
+        "fr": "Parti Pirate",
+        "nl": "Piratenpartij",
+        "de": "Piraten Partei"
     },
     "type": "national",
     "websites": {
