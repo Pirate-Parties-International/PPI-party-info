@@ -224,6 +224,7 @@ Currently supported:
 
 * "ppi" - Pirate Parties International
 * "ppeu" - European Pirate Party
+* "ype" - Young Pirates of Europe
 
 Accepted keys are:
 * full
