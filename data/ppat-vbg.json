@@ -1,0 +1,42 @@
+{
+    "countryCode": "at",
+    "country": "Austria",
+    "partyName": {
+        "en": "Pirate Party Vorarlberg",
+        "de": "Piratenpartei Vorarlberg"
+    },
+    "type": "regional",
+    "parentorganisation": "PPAT",
+    "websites": {
+        "official": "http:\/\/vorarlberg.piratenpartei.at\/"
+    },
+    "headquarters": {
+        "coordinates": {
+            "longitude": "47.066536",
+            "latitude" : "15.440893"
+        },
+        "address": "Radetzkystra\u00dfe 3, 8010 Graz"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "Piratenpartei-Vorarlberg-136328863463",
+            "id": "136328863463"
+        },
+        "twitter": {
+            "username": "piratvbg",
+            "hashtag": ["#ppat"]
+        },
+        "googlePlus": "110390156150296811398",
+        "youtube": "VorarlbergPiraten"
+    },
+    "membership": {
+        "ppi": false,
+        "ppeu": false
+    },
+    "contact": {
+        "general": {
+            "email": "lv-vorarlberg@piratenpartei.at"
+        }
+    },
+    "partyCode": "PPAT-VBG"
+}

@@ -1,0 +1,41 @@
+{
+    "countryCode": "at",
+    "country": "Austria",
+    "partyName": {
+        "en": "Pirate Party Lower Austria",
+        "de": "Piratenpartei Nieder\u00f6sterreich"
+    },
+    "type": "regional",
+    "parentorganisation": "PPAT",
+    "websites": {
+        "official": "http:\/\/niederoesterreich.piratenpartei.at\/"
+    },
+    "headquarters": {
+        "coordinates": {
+            "longitude": "47.066536",
+            "latitude" : "15.440893"
+        },
+        "address": "Radetzkystra\u00dfe 3, 8010 Graz"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "Piratenpartei.NOE",
+            "id": "282701858461093"
+        },
+        "twitter": {
+            "username": "pp_noe",
+            "hashtag": ["#ppat"]
+        },
+        "googlePlus": "110392567089330004343"
+    },
+    "membership": {
+        "ppi": false,
+        "ppeu": false
+    },
+    "contact": {
+        "general": {
+            "email": "lv-noe@piratenpartei.at"
+        }
+    },
+    "partyCode": "PPAT-NOE"
+}

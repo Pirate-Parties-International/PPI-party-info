@@ -1,0 +1,42 @@
+{
+    "countryCode": "at",
+    "country": "Austria",
+    "partyName": {
+        "en": "Pirate Party Styria",
+        "de": "Piratenpartei Steiermark"
+    },
+    "type": "regional",
+    "parentorganisation": "PPAT",
+    "websites": {
+        "official": "http:\/\/steiermark.piratenpartei.at\/"
+    },
+    "headquarters": {
+        "coordinates": {
+            "longitude": "47.066536",
+            "latitude" : "15.440893"
+        },
+        "address": "Radetzkystra\u00dfe 3, 8010 Graz"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "piratenStmk",
+            "id": "232242920169896"
+        },
+        "twitter": {
+            "username": "piratenstmk",
+            "hashtag": ["#ppat", "#AusdemGemeinderat"]
+        },
+        "googlePlus": "109508399085998503096",
+        "youtube": "PiratenStmk"
+    },
+    "membership": {
+        "ppi": false,
+        "ppeu": false
+    },
+    "contact": {
+        "general": {
+            "email": "lv-stmk@piratenpartei.at"
+        }
+    },
+    "partyCode": "PPAT-STMK"
+}

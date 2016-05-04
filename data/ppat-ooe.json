@@ -1,0 +1,42 @@
+{
+    "countryCode": "at",
+    "country": "Austria",
+    "partyName": {
+        "en": "Pirate Party Upper Austria",
+        "de": "Piratenpartei Ober\u00f6sterreich"
+    },
+    "type": "regional",
+    "parentorganisation": "PPAT",
+    "websites": {
+        "official": "http:\/\/oberoesterreich.piratenpartei.at\/"
+    },
+    "headquarters": {
+        "coordinates": {
+            "longitude": "48.095105",
+            "latitude" : "13.733902"
+        },
+        "address": "Laah 3, 4692 Niederthalheim"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "piratenparteiooe",
+            "id": "299705003373537"
+        },
+        "twitter": {
+            "username": "PiratenOOE",
+            "hashtag": ["#ppat"]
+        },
+        "googlePlus": "117735518714095755095",
+        "youtube": "PiratenParteiOe"
+    },
+    "membership": {
+        "ppi": false,
+        "ppeu": false
+    },
+    "contact": {
+        "general": {
+            "email": "lv-ooe@piratenpartei.at"
+        }
+    },
+    "partyCode": "PPAT-OOE"
+}

@@ -1,0 +1,42 @@
+{
+    "countryCode": "at",
+    "country": "Austria",
+    "partyName": {
+        "en": "Pirate Party Vienna",
+        "de": "Piratenpartei Wien"
+    },
+    "type": "regional",
+    "parentorganisation": "PPAT",
+    "websites": {
+        "official": "http:\/\/wien.piratenpartei.at\/"
+    },
+    "headquarters": {
+        "coordinates": {
+            "longitude": "47.066536",
+            "latitude" : "15.440893"
+        },
+        "address": "Radetzkystra\u00dfe 3, 8010 Graz"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "Piratenpartei.Wien",
+            "id": "155531644511382"
+        },
+        "twitter": {
+            "username": "piratenwien",
+            "hashtag": ["#ppat"]
+        },
+        "googlePlus": "114167131167981218539",
+        "youtube": "UC8BCWlIJN89FftbKTl4fAgQ"
+    },
+    "membership": {
+        "ppi": false,
+        "ppeu": false
+    },
+    "contact": {
+        "general": {
+            "email": "lv-wien@piratenpartei.at"
+        }
+    },
+    "partyCode": "PPAT-W"
+}

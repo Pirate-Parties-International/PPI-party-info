@@ -1,0 +1,42 @@
+{
+    "countryCode": "at",
+    "country": "Austria",
+    "partyName": {
+        "en": "Pirate Party Carinthia",
+        "de": "Piratenpartei K\u00e4rnten"
+    },
+    "type": "regional",
+    "parentorganisation": "PPAT",
+    "websites": {
+        "official": "http:\/\/kaernten.piratenpartei.at\/"
+    },
+    "headquarters": {
+        "coordinates": {
+            "longitude": "47.066536",
+            "latitude" : "15.440893"
+        },
+        "address": "Radetzkystra\u00dfe 3, 8010 Graz"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "piratenStmk",
+            "id": "272491402794847"
+        },
+        "twitter": {
+            "username": "PiratenKtn",
+            "hashtag": ["#ppat"]
+        },
+        "googlePlus": "117157932282464198305",
+        "youtube": "piratenKtn"
+    },
+    "membership": {
+        "ppi": false,
+        "ppeu": false
+    },
+    "contact": {
+        "general": {
+            "email": "lv-kaernten@piratenpartei.at"
+        }
+    },
+    "partyCode": "PPAT-KTN"
+}

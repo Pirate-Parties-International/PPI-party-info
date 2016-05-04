@@ -1,0 +1,30 @@
+{
+    "countryCode": "at",
+    "country": "Austria",
+    "partyName": {
+        "en": "Pirate Party Tyrol",
+        "de": "Piraten Partei Tirol"
+    },
+    "type": "national",
+    "websites": {
+        "official": "http:\/\/piratenpartei-tirol.org\/",
+        "wiki": "http:\/\/wiki.piratenpartei-tirol.org\/",
+        "forum": "http:\/\/forum.piratenpartei-tirol.org\/"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "Enterhaken.Tirol",
+            "id": "312795395475714"
+        },
+        "twitter": {
+            "username": "PPTirol",
+            "hashtag": ["#ppat"]
+        },
+        "youtube": "UCPeTkbEhXCAsxe5kWouKgyg"
+    },
+    "membership": {
+        "ppi": false,
+        "ppeu": false
+    },
+    "partyCode": "PPAT-T"
+}
