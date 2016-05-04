@@ -3,7 +3,7 @@
     "country": "Austria",
     "partyName": {
         "en": "Pirate Party Austria",
-        "at": "Piratenpartei \u00d6sterreich"
+        "de": "Piratenpartei \u00d6sterreichs"
     },
     "type": "national",
     "websites": {
@@ -11,6 +11,13 @@
         "wiki": "http:\/\/wiki.piratenpartei.at\/",
         "forum": "http:\/\/forum.piratenpartei.at\/",
         "liquidfeedback": "http:\/\/liquid.piratenpartei.at\/"
+    },
+    "headquarters": {
+        "coordinates": {
+            "longitude": "47.066536",
+            "latitude" : "15.440893"
+        },
+        "address": "Radetzkystra\u00dfe 3, 8010 Graz"
     },
     "socialNetworks": {
         "facebook": {
@@ -34,7 +41,10 @@
     },
     "contact": {
         "general": {
-            "email": "bgf@piratenpartei.at"
+            "email": "bv@piratenpartei.at"
+        },
+        "international": {
+            "email": "ppi@piratenpartei.at"
         }
     },
     "partyCode": "PPAT"
