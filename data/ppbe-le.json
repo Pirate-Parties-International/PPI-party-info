@@ -1,0 +1,27 @@
+{
+    "countryCode": "be",
+    "country": "Belgium",
+    "partyName": {
+      "en": "Pirate Party Leuven",
+      "nl": "Piratenpartij Leuven"
+    },
+    "type": "regional",
+    "region": "Leuven",
+    "parentorganisation": "PPBE",
+    "websites": {
+        "official": null
+    },
+    "socialNetworks": {
+        "dfsn": {
+          "id": "ppleuven@diasp.eu",
+          "type": "diaspora"
+        }
+    },
+    "contact": {
+        "general": {
+            "email": null
+        }
+    },
+    "defunct": "true",
+    "partyCode": "PPBE-LE"
+}
