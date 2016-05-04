@@ -4,4 +4,4 @@ php:
 
 before_script: composer install
 
-script: php console info:verify
+script: php console info:verify --error-codes-only
