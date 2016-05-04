@@ -22,6 +22,6 @@
             "email": null
         }
     },
-    "defunct": "true",
+    "defunct": true,
     "partyCode": "PPBE-LE"
 }
