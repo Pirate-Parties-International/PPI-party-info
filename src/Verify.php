@@ -56,19 +56,16 @@ class Verify
 			return self::requiredMsg('type');
 		}
 
-        switch ($json['type']) {
-            case 'national':
-                break;
-            case 'regional':
-            case 'local':
-            case 'youth':
-                if (empty($json['parentorganisation'])) {
-                    return "For this type of organisation field 'parentorganisation' is required";
-                }
-                break;
-            default:
-                return "Field 'type' has an invalid value. Must be one of: national, regional, local, youth.";
-        }
+        // switch ($json['type']) {
+        //     case 'national':
+        //         break;
+        //     case 'regional':
+        //     case 'local':
+        //     case 'youth':
+        //         break;
+        //     default:
+        //         return "Field 'type' has an invalid value. Must be one of: national, regional, local, youth.";
+        // }
 	
 		return true;            
 	}
