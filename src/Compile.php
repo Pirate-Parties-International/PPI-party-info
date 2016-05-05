@@ -22,6 +22,8 @@ class Compile
 
 		 $this->logoFiles = scandir($this->rootPath . '/logo/');
 
+		 $this->officialLogoFiles = scandir($this->rootPath . '/logo/official/');
+
 		 $this->flagFiles = scandir($this->rootPath . '/country-flag/');
 	}
 
@@ -69,6 +71,21 @@ class Compile
 		foreach ($this->logoFiles as $filename) {
 			if (preg_match('/(.+)\.(png|jpg)$/i', $filename, $matches) === 1) {
 				$output[strtoupper($matches[1])] = sprintf('%s/logo/%s', $this->rootPath, $filename);
+			}
+		}
+
+		return $output;
+	}
+
+	/**
+	 * Returns compiled list of all official party logo images
+	 * @return array
+	 */
+	public function getOfficialLogoFiles() {
+		$output = [];
+		foreach ($this->officialLogoFiles as $filename) {
+			if (preg_match('/(.+)\.(svg)$/i', $filename, $matches) === 1) {
+				$output[strtoupper($matches[1])] = sprintf('%s/logo/official/%s', $this->rootPath, $filename);
 			}
 		}
 
