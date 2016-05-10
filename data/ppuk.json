@@ -2,9 +2,8 @@
     "countryCode": "gb",
     "country": "United Kingdom",
     "partyName": {
-        "en": "Pirate Party UK",
-        "uk": "Pirate Party UK"
-    },
+        "en": "Pirate Party UK"
+         },
     "type": "national",
     "websites": {
         "official": "http:\/\/www.pirateparty.org.uk"

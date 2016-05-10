@@ -2,9 +2,8 @@
     "countryCode": "nz",
     "country": "New Zealand",
     "partyName": {
-        "en": "Pirate Party New Zealand",
-        "nz": "Pirate Party New Zealand"
-    },
+        "en": "Pirate Party New Zealand"
+         },
     "type": "national",
     "websites": {
         "official": "http:\/\/pirateparty.org.nz\/"

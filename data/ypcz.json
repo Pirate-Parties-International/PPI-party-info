@@ -3,7 +3,7 @@
     "country": "Czech Republic",
     "partyName": {
         "en": "Young Pirates",
-        "cz": "Mladí Piráti"
+        "cs": "Mladí Piráti"
     },
     "partyCode":  "YPCZ", 
     "type": "youth",

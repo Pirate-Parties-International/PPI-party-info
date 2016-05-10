@@ -3,7 +3,7 @@
     "country": "Japan",
     "partyName": {
         "en": "Pirate Party Japan",
-        "jp": "%E6%97%A5%E6%9C%AC%E6%B5%B7%E8%B3%8A%E5%85%9A"
+        "ja": "%E6%97%A5%E6%9C%AC%E6%B5%B7%E8%B3%8A%E5%85%9A"
     },
     "type": "national",
     "websites": {
@@ -38,5 +38,5 @@
             "url": "http:\/\/www.piratepartyjapan.org\/?page_id=190"
         }
     },
-    "partyCode": "PPAU"
+    "partyCode": "PPJP"
 }
