@@ -1,0 +1,33 @@
+{
+    "countryCode": "se",
+    "country": "Sweden",
+    "partyName": {
+        "en": "Young Pirate",
+        "sv": "Ung Pirat"
+    }, 
+    "type": "youth",
+    "parentorganisation": null,
+    "websites": {
+        "official": "http:\/\/www.ungpirat.se"
+    },
+    "socialNetworks": {
+        "facebook": {
+            "username": "ungpirat",
+            "id": "92683221988"
+        },
+        "twitter": {
+	    "username": "ung_pirat",
+	    "hashtag": "#ungpirat"
+    	},
+	"youtube": "ungpirat",
+	
+    "membership": {
+        "ype": "full"
+    },
+    "contact": {
+        "general": {
+            "email": "ordforande@ungpirat.se"
+        }
+    },
+    "partyCode": "YPSE"
+}
