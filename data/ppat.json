@@ -3,21 +3,29 @@
     "country": "Austria",
     "partyName": {
         "en": "Pirate Party Austria",
-        "de": "Piratenpartei \u00d6sterreichs"
+        "de": "Piratenpartei \u00d6sterreichs",
+        "fr": "Parti pirate autrichien",
+        "el": "\u03A0\u03B5\u03B9\u03C1\u03B1\u03C4\u03B9\u03BA\u03CC \u039A\u03CC\u03BC\u03BC\u03B1 \u03C4\u03B7\u03C2 \u0391\u03C5\u03C3\u03C4\u03C1\u03AF\u03B1\u03C2",
+        "eo": "Piratpartio de A\u016Dstrio",
+        "ja": "\u30AA\u30FC\u30B9\u30C8\u30EA\u30A2\u6D77\u8CCA\u515A",
+        "ko": "\uC624\uC2A4\uD2B8\uB9AC\uC544 \uD574\uC801\uB2F9",
+        "nl": "Piratenpartij Oostenrijk",
+        "zh": "\u5967\u5730\u5229\u6D77\u76DC\u9EE8"
     },
     "type": "national",
     "websites": {
         "official": "http:\/\/www.piratenpartei.at\/",
         "wiki": "http:\/\/wiki.piratenpartei.at\/",
         "forum": "http:\/\/forum.piratenpartei.at\/",
-        "liquidfeedback": "http:\/\/liquid.piratenpartei.at\/"
+        "liquidfeedback": "http:\/\/liquid.piratenpartei.at\/",
+        "blog": "https:\/\/basis.piratenpartei.at\/"
     },
     "headquarters": {
         "coordinates": {
-            "longitude": "15.440893",
-            "latitude" : "47.066536"
+            "longitude": "11.370619",
+            "latitude" : "47.263811"
         },
-        "address": "Radetzkystra\u00dfe 3, 8010 Graz"
+        "address": "Scheuchenstuelgasse 11, 6020 Innsbruck"
     },
     "socialNetworks": {
         "facebook": {
@@ -42,10 +50,7 @@
     },
     "contact": {
         "general": {
-            "email": "bv@piratenpartei.at"
-        },
-        "international": {
-            "email": "ppi@piratenpartei.at"
+            "email": "konakt@piratenpartei.at"
         }
     },
     "partyCode": "PPAT"
