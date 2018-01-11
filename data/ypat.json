@@ -2,22 +2,22 @@
     "countryCode": "at",
     "country": "Austria",
     "partyName": {
-        "en": "Young Pirates Austria",
-        "de": "Junge Pirat*innen \u00d6sterreichs"
+        "en": "#hyperlinks",
+        "de": "#hyperlinks"
     },
     "type": "youth",
     "parentorganisation": false,
     "websites": {
-        "official": "http:\/\/jupis.at\/"
+        "official": "https:\/\/hyperlinks.at"
     },
     "socialNetworks": {
         "facebook": {
-            "username": "jupisat",
+            "username": "hyperlinks.at",
             "id": "282942765123355"
         },
         "twitter": {
-            "username": "jupis_at",
-            "hashtag": "#ppat"
+            "username": "hyperlinks_at",
+            "hashtag": "#hyperlinks"
         }
     },
     "membership": {
@@ -25,7 +25,7 @@
     },
     "contact": {
         "general": {
-            "email": "juvo@jupis.at"
+            "email": "hello@hyperlinks.at"
         }
     },
     "partyCode": "YPAT"
