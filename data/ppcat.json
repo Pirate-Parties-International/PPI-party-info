@@ -7,7 +7,7 @@
     },
     "type": "national",
     "websites": {
-        "official": "http:\/\/www.pirata.cat\/"
+        "official": "http:\/\/www.pirates.cat\/"
     },
     "socialNetworks": {
         "facebook": {
@@ -20,10 +20,6 @@
         },
         "googlePlus": null,
         "youtube": "PiratesdeCatalunyaTV",
-        "irc": {
-            "ircChannel": "#pirata.cat",
-            "ircServer": "irc.freenode.net"
-        },
         "dfsn": {
             "id": null,
             "type": null
@@ -35,7 +31,7 @@
     },
     "contact": {
         "general": {
-            "url": "https:\/\/xifrat.pirata.cat\/contacte\/"
+            "url": "https:\/\/participa.pirates.cat\/contacte"
         }
     },
     "partyCode": "PPCAT"
